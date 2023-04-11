@@ -1,0 +1,83 @@
+[
+    {
+        "color": "d73a4a",
+        "default": true,
+        "description": "Something isn't working",
+        "id": 4515497739,
+        "name": "bug",
+        "node_id": "LA_kwDOH94Zn88AAAABDSUHCw",
+        "url": "https://api.github.com/repos/runforesight/foresight-test-coverage-maven-plugin/labels/bug"
+    },
+    {
+        "color": "0075ca",
+        "default": true,
+        "description": "Improvements or additions to documentation",
+        "id": 4515497740,
+        "name": "documentation",
+        "node_id": "LA_kwDOH94Zn88AAAABDSUHDA",
+        "url": "https://api.github.com/repos/runforesight/foresight-test-coverage-maven-plugin/labels/documentation"
+    },
+    {
+        "color": "cfd3d7",
+        "default": true,
+        "description": "This issue or pull request already exists",
+        "id": 4515497741,
+        "name": "duplicate",
+        "node_id": "LA_kwDOH94Zn88AAAABDSUHDQ",
+        "url": "https://api.github.com/repos/runforesight/foresight-test-coverage-maven-plugin/labels/duplicate"
+    },
+    {
+        "color": "a2eeef",
+        "default": true,
+        "description": "New feature or request",
+        "id": 4515497742,
+        "name": "enhancement",
+        "node_id": "LA_kwDOH94Zn88AAAABDSUHDg",
+        "url": "https://api.github.com/repos/runforesight/foresight-test-coverage-maven-plugin/labels/enhancement"
+    },
+    {
+        "color": "7057ff",
+        "default": true,
+        "description": "Good for newcomers",
+        "id": 4515497743,
+        "name": "good first issue",
+        "node_id": "LA_kwDOH94Zn88AAAABDSUHDw",
+        "url": "https://api.github.com/repos/runforesight/foresight-test-coverage-maven-plugin/labels/good%20first%20issue"
+    },
+    {
+        "color": "008672",
+        "default": true,
+        "description": "Extra attention is needed",
+        "id": 4515497744,
+        "name": "help wanted",
+        "node_id": "LA_kwDOH94Zn88AAAABDSUHEA",
+        "url": "https://api.github.com/repos/runforesight/foresight-test-coverage-maven-plugin/labels/help%20wanted"
+    },
+    {
+        "color": "e4e669",
+        "default": true,
+        "description": "This doesn't seem right",
+        "id": 4515497745,
+        "name": "invalid",
+        "node_id": "LA_kwDOH94Zn88AAAABDSUHEQ",
+        "url": "https://api.github.com/repos/runforesight/foresight-test-coverage-maven-plugin/labels/invalid"
+    },
+    {
+        "color": "d876e3",
+        "default": true,
+        "description": "Further information is requested",
+        "id": 4515497746,
+        "name": "question",
+        "node_id": "LA_kwDOH94Zn88AAAABDSUHEg",
+        "url": "https://api.github.com/repos/runforesight/foresight-test-coverage-maven-plugin/labels/question"
+    },
+    {
+        "color": "ffffff",
+        "default": true,
+        "description": "This will not be worked on",
+        "id": 4515497747,
+        "name": "wontfix",
+        "node_id": "LA_kwDOH94Zn88AAAABDSUHEw",
+        "url": "https://api.github.com/repos/runforesight/foresight-test-coverage-maven-plugin/labels/wontfix"
+    }
+]

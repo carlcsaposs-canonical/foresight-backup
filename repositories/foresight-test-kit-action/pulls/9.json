@@ -1,0 +1,2071 @@
+{
+    "_links": {
+        "comments": {
+            "href": "https://api.github.com/repos/runforesight/foresight-test-kit-action/issues/9/comments"
+        },
+        "commits": {
+            "href": "https://api.github.com/repos/runforesight/foresight-test-kit-action/pulls/9/commits"
+        },
+        "html": {
+            "href": "https://github.com/runforesight/foresight-test-kit-action/pull/9"
+        },
+        "issue": {
+            "href": "https://api.github.com/repos/runforesight/foresight-test-kit-action/issues/9"
+        },
+        "review_comment": {
+            "href": "https://api.github.com/repos/runforesight/foresight-test-kit-action/pulls/comments{/number}"
+        },
+        "review_comments": {
+            "href": "https://api.github.com/repos/runforesight/foresight-test-kit-action/pulls/9/comments"
+        },
+        "self": {
+            "href": "https://api.github.com/repos/runforesight/foresight-test-kit-action/pulls/9"
+        },
+        "statuses": {
+            "href": "https://api.github.com/repos/runforesight/foresight-test-kit-action/statuses/ffdaa8a59b66ac0684d21e8855c3f2b7a5ef80d2"
+        }
+    },
+    "active_lock_reason": null,
+    "additions": 141,
+    "assignee": null,
+    "assignees": [],
+    "author_association": "CONTRIBUTOR",
+    "auto_merge": null,
+    "base": {
+        "label": "runforesight:master",
+        "ref": "master",
+        "repo": {
+            "allow_forking": true,
+            "archive_url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/{archive_format}{/ref}",
+            "archived": false,
+            "assignees_url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/assignees{/user}",
+            "blobs_url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/git/blobs{/sha}",
+            "branches_url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/branches{/branch}",
+            "clone_url": "https://github.com/runforesight/foresight-test-kit-action.git",
+            "collaborators_url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/collaborators{/collaborator}",
+            "comments_url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/comments{/number}",
+            "commits_url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/commits{/sha}",
+            "compare_url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/compare/{base}...{head}",
+            "contents_url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/contents/{+path}",
+            "contributors_url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/contributors",
+            "created_at": "2022-06-10T12:29:40Z",
+            "default_branch": "master",
+            "deployments_url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/deployments",
+            "description": "Action for optimizing your tests by listing test runs and with history ",
+            "disabled": false,
+            "downloads_url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/downloads",
+            "events_url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/events",
+            "fork": false,
+            "forks": 5,
+            "forks_count": 5,
+            "forks_url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/forks",
+            "full_name": "runforesight/foresight-test-kit-action",
+            "git_commits_url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/git/commits{/sha}",
+            "git_refs_url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/git/refs{/sha}",
+            "git_tags_url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/git/tags{/sha}",
+            "git_url": "git://github.com/runforesight/foresight-test-kit-action.git",
+            "has_discussions": false,
+            "has_downloads": true,
+            "has_issues": true,
+            "has_pages": false,
+            "has_projects": false,
+            "has_wiki": true,
+            "homepage": "",
+            "hooks_url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/hooks",
+            "html_url": "https://github.com/runforesight/foresight-test-kit-action",
+            "id": 502035320,
+            "is_template": false,
+            "issue_comment_url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/issues/comments{/number}",
+            "issue_events_url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/issues/events{/number}",
+            "issues_url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/issues{/number}",
+            "keys_url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/keys{/key_id}",
+            "labels_url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/labels{/name}",
+            "language": "TypeScript",
+            "languages_url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/languages",
+            "license": {
+                "key": "mit",
+                "name": "MIT License",
+                "node_id": "MDc6TGljZW5zZTEz",
+                "spdx_id": "MIT",
+                "url": "https://api.github.com/licenses/mit"
+            },
+            "merges_url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/merges",
+            "milestones_url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/milestones{/number}",
+            "mirror_url": null,
+            "name": "foresight-test-kit-action",
+            "node_id": "R_kgDOHexzeA",
+            "notifications_url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/notifications{?since,all,participating}",
+            "open_issues": 0,
+            "open_issues_count": 0,
+            "owner": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/103429428?v=4",
+                "events_url": "https://api.github.com/users/runforesight/events{/privacy}",
+                "followers_url": "https://api.github.com/users/runforesight/followers",
+                "following_url": "https://api.github.com/users/runforesight/following{/other_user}",
+                "gists_url": "https://api.github.com/users/runforesight/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/runforesight",
+                "id": 103429428,
+                "login": "runforesight",
+                "node_id": "O_kgDOBio1NA",
+                "organizations_url": "https://api.github.com/users/runforesight/orgs",
+                "received_events_url": "https://api.github.com/users/runforesight/received_events",
+                "repos_url": "https://api.github.com/users/runforesight/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/runforesight/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/runforesight/subscriptions",
+                "type": "Organization",
+                "url": "https://api.github.com/users/runforesight"
+            },
+            "private": false,
+            "pulls_url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/pulls{/number}",
+            "pushed_at": "2023-02-09T14:34:50Z",
+            "releases_url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/releases{/id}",
+            "size": 1445,
+            "ssh_url": "git@github.com:runforesight/foresight-test-kit-action.git",
+            "stargazers_count": 6,
+            "stargazers_url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/stargazers",
+            "statuses_url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/statuses/{sha}",
+            "subscribers_url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/subscribers",
+            "subscription_url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/subscription",
+            "svn_url": "https://github.com/runforesight/foresight-test-kit-action",
+            "tags_url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/tags",
+            "teams_url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/teams",
+            "topics": [
+                "ci",
+                "coverage",
+                "github-actions",
+                "test",
+                "testing"
+            ],
+            "trees_url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/git/trees{/sha}",
+            "updated_at": "2023-02-20T20:43:51Z",
+            "url": "https://api.github.com/repos/runforesight/foresight-test-kit-action",
+            "visibility": "public",
+            "watchers": 6,
+            "watchers_count": 6,
+            "web_commit_signoff_required": false
+        },
+        "sha": "04b005ef18630c4429241b132a1633f367506b41",
+        "user": {
+            "avatar_url": "https://avatars.githubusercontent.com/u/103429428?v=4",
+            "events_url": "https://api.github.com/users/runforesight/events{/privacy}",
+            "followers_url": "https://api.github.com/users/runforesight/followers",
+            "following_url": "https://api.github.com/users/runforesight/following{/other_user}",
+            "gists_url": "https://api.github.com/users/runforesight/gists{/gist_id}",
+            "gravatar_id": "",
+            "html_url": "https://github.com/runforesight",
+            "id": 103429428,
+            "login": "runforesight",
+            "node_id": "O_kgDOBio1NA",
+            "organizations_url": "https://api.github.com/users/runforesight/orgs",
+            "received_events_url": "https://api.github.com/users/runforesight/received_events",
+            "repos_url": "https://api.github.com/users/runforesight/repos",
+            "site_admin": false,
+            "starred_url": "https://api.github.com/users/runforesight/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/runforesight/subscriptions",
+            "type": "Organization",
+            "url": "https://api.github.com/users/runforesight"
+        }
+    },
+    "body": null,
+    "changed_files": 8,
+    "closed_at": "2022-10-19T07:15:04Z",
+    "comment_data": [
+        {
+            "_links": {
+                "html": {
+                    "href": "https://github.com/runforesight/foresight-test-kit-action/pull/9#discussion_r997139373"
+                },
+                "pull_request": {
+                    "href": "https://api.github.com/repos/runforesight/foresight-test-kit-action/pulls/9"
+                },
+                "self": {
+                    "href": "https://api.github.com/repos/runforesight/foresight-test-kit-action/pulls/comments/997139373"
+                }
+            },
+            "author_association": "CONTRIBUTOR",
+            "body": "Seems that `RequestError` is not used",
+            "commit_id": "ffdaa8a59b66ac0684d21e8855c3f2b7a5ef80d2",
+            "created_at": "2022-10-17T14:31:39Z",
+            "diff_hunk": "@@ -4,6 +4,7 @@ import * as logger from './logger'\n import {FORESIGHT_WORKFLOW_ENV_VARS} from '../constants'\n import {JobInfo} from '../interfaces'\n import {Octokit} from '@octokit/action'\n+import {RequestError} from '@octokit/request-error'",
+            "html_url": "https://github.com/runforesight/foresight-test-kit-action/pull/9#discussion_r997139373",
+            "id": 997139373,
+            "line": null,
+            "node_id": "PRRC_kwDOHexzeM47byOt",
+            "original_commit_id": "0c3555fc59440487cd364c5873b9415666a5e6fa",
+            "original_line": 7,
+            "original_position": 4,
+            "original_start_line": null,
+            "path": "src/actions/job.ts",
+            "position": null,
+            "pull_request_review_id": 1144276053,
+            "pull_request_url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/pulls/9",
+            "reactions": {
+                "+1": 0,
+                "-1": 0,
+                "confused": 0,
+                "eyes": 0,
+                "heart": 0,
+                "hooray": 0,
+                "laugh": 0,
+                "rocket": 0,
+                "total_count": 0,
+                "url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/pulls/comments/997139373/reactions"
+            },
+            "side": "RIGHT",
+            "start_line": null,
+            "start_side": null,
+            "subject_type": "line",
+            "updated_at": "2022-10-17T14:31:40Z",
+            "url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/pulls/comments/997139373",
+            "user": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/3143425?v=4",
+                "events_url": "https://api.github.com/users/serkan-ozal/events{/privacy}",
+                "followers_url": "https://api.github.com/users/serkan-ozal/followers",
+                "following_url": "https://api.github.com/users/serkan-ozal/following{/other_user}",
+                "gists_url": "https://api.github.com/users/serkan-ozal/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/serkan-ozal",
+                "id": 3143425,
+                "login": "serkan-ozal",
+                "node_id": "MDQ6VXNlcjMxNDM0MjU=",
+                "organizations_url": "https://api.github.com/users/serkan-ozal/orgs",
+                "received_events_url": "https://api.github.com/users/serkan-ozal/received_events",
+                "repos_url": "https://api.github.com/users/serkan-ozal/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/serkan-ozal/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/serkan-ozal/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/serkan-ozal"
+            }
+        },
+        {
+            "_links": {
+                "html": {
+                    "href": "https://github.com/runforesight/foresight-test-kit-action/pull/9#discussion_r997140074"
+                },
+                "pull_request": {
+                    "href": "https://api.github.com/repos/runforesight/foresight-test-kit-action/pulls/9"
+                },
+                "self": {
+                    "href": "https://api.github.com/repos/runforesight/foresight-test-kit-action/pulls/comments/997140074"
+                }
+            },
+            "author_association": "CONTRIBUTOR",
+            "body": "`debug` level is better",
+            "commit_id": "ffdaa8a59b66ac0684d21e8855c3f2b7a5ef80d2",
+            "created_at": "2022-10-17T14:32:17Z",
+            "diff_hunk": "@@ -23,8 +24,31 @@ export async function getJobInfo(octokit: Octokit): Promise<JobInfo> {\n                     per_page: PAGE_SIZE,\n                     page\n                 })\n-            } catch (error) {\n+            } catch (error: any) {\n                 result = undefined\n+                logger.info(",
+            "html_url": "https://github.com/runforesight/foresight-test-kit-action/pull/9#discussion_r997140074",
+            "id": 997140074,
+            "line": null,
+            "node_id": "PRRC_kwDOHexzeM47byZq",
+            "original_commit_id": "0c3555fc59440487cd364c5873b9415666a5e6fa",
+            "original_line": 29,
+            "original_position": 15,
+            "original_start_line": null,
+            "path": "src/actions/job.ts",
+            "position": null,
+            "pull_request_review_id": 1144277149,
+            "pull_request_url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/pulls/9",
+            "reactions": {
+                "+1": 0,
+                "-1": 0,
+                "confused": 0,
+                "eyes": 0,
+                "heart": 0,
+                "hooray": 0,
+                "laugh": 0,
+                "rocket": 0,
+                "total_count": 0,
+                "url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/pulls/comments/997140074/reactions"
+            },
+            "side": "RIGHT",
+            "start_line": null,
+            "start_side": null,
+            "subject_type": "line",
+            "updated_at": "2022-10-17T14:32:17Z",
+            "url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/pulls/comments/997140074",
+            "user": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/3143425?v=4",
+                "events_url": "https://api.github.com/users/serkan-ozal/events{/privacy}",
+                "followers_url": "https://api.github.com/users/serkan-ozal/followers",
+                "following_url": "https://api.github.com/users/serkan-ozal/following{/other_user}",
+                "gists_url": "https://api.github.com/users/serkan-ozal/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/serkan-ozal",
+                "id": 3143425,
+                "login": "serkan-ozal",
+                "node_id": "MDQ6VXNlcjMxNDM0MjU=",
+                "organizations_url": "https://api.github.com/users/serkan-ozal/orgs",
+                "received_events_url": "https://api.github.com/users/serkan-ozal/received_events",
+                "repos_url": "https://api.github.com/users/serkan-ozal/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/serkan-ozal/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/serkan-ozal/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/serkan-ozal"
+            }
+        },
+        {
+            "_links": {
+                "html": {
+                    "href": "https://github.com/runforesight/foresight-test-kit-action/pull/9#discussion_r997143021"
+                },
+                "pull_request": {
+                    "href": "https://api.github.com/repos/runforesight/foresight-test-kit-action/pulls/9"
+                },
+                "self": {
+                    "href": "https://api.github.com/repos/runforesight/foresight-test-kit-action/pulls/comments/997143021"
+                }
+            },
+            "author_association": "CONTRIBUTOR",
+            "body": "no need to `?` mark after `response` as you already checked `response` above",
+            "commit_id": "ffdaa8a59b66ac0684d21e8855c3f2b7a5ef80d2",
+            "created_at": "2022-10-17T14:34:41Z",
+            "diff_hunk": "@@ -23,8 +24,31 @@ export async function getJobInfo(octokit: Octokit): Promise<JobInfo> {\n                     per_page: PAGE_SIZE,\n                     page\n                 })\n-            } catch (error) {\n+            } catch (error: any) {\n                 result = undefined\n+                logger.info(\n+                    `Exception occured while fetch job info from github: ${error.message}`\n+                )\n+                /**\n+                 * check whether error is Resource not accessible by integration or not\n+                 * if error status equals to 403 it might be 2 different error RateLimitError or ResourceNotAccessible\n+                 * if error status=403 and x-ratelimit-remaining = 0 error must be RateLimitError other\n+                 * else if status=403 and x-ratelimit-remaining != 0 we assume that error is ResourceNotAccessible\n+                 */\n+                if (\n+                    error &&\n+                    error.response &&\n+                    error.response.headers &&\n+                    error.status &&\n+                    error.response?.headers['x-ratelimit-remaining'] !== '0' &&",
+            "html_url": "https://github.com/runforesight/foresight-test-kit-action/pull/9#discussion_r997143021",
+            "id": 997143021,
+            "line": null,
+            "node_id": "PRRC_kwDOHexzeM47bzHt",
+            "original_commit_id": "0c3555fc59440487cd364c5873b9415666a5e6fa",
+            "original_line": 43,
+            "original_position": 29,
+            "original_start_line": null,
+            "path": "src/actions/job.ts",
+            "position": null,
+            "pull_request_review_id": 1144281296,
+            "pull_request_url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/pulls/9",
+            "reactions": {
+                "+1": 0,
+                "-1": 0,
+                "confused": 0,
+                "eyes": 0,
+                "heart": 0,
+                "hooray": 0,
+                "laugh": 0,
+                "rocket": 0,
+                "total_count": 0,
+                "url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/pulls/comments/997143021/reactions"
+            },
+            "side": "RIGHT",
+            "start_line": null,
+            "start_side": null,
+            "subject_type": "line",
+            "updated_at": "2022-10-17T14:34:41Z",
+            "url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/pulls/comments/997143021",
+            "user": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/3143425?v=4",
+                "events_url": "https://api.github.com/users/serkan-ozal/events{/privacy}",
+                "followers_url": "https://api.github.com/users/serkan-ozal/followers",
+                "following_url": "https://api.github.com/users/serkan-ozal/following{/other_user}",
+                "gists_url": "https://api.github.com/users/serkan-ozal/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/serkan-ozal",
+                "id": 3143425,
+                "login": "serkan-ozal",
+                "node_id": "MDQ6VXNlcjMxNDM0MjU=",
+                "organizations_url": "https://api.github.com/users/serkan-ozal/orgs",
+                "received_events_url": "https://api.github.com/users/serkan-ozal/received_events",
+                "repos_url": "https://api.github.com/users/serkan-ozal/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/serkan-ozal/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/serkan-ozal/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/serkan-ozal"
+            }
+        },
+        {
+            "_links": {
+                "html": {
+                    "href": "https://github.com/runforesight/foresight-test-kit-action/pull/9#discussion_r997144238"
+                },
+                "pull_request": {
+                    "href": "https://api.github.com/repos/runforesight/foresight-test-kit-action/pulls/9"
+                },
+                "self": {
+                    "href": "https://api.github.com/repos/runforesight/foresight-test-kit-action/pulls/comments/997144238"
+                }
+            },
+            "author_association": "CONTRIBUTOR",
+            "body": "`if (jobInfo.id)`",
+            "commit_id": "ffdaa8a59b66ac0684d21e8855c3f2b7a5ef80d2",
+            "created_at": "2022-10-17T14:35:43Z",
+            "diff_hunk": "@@ -68,12 +95,16 @@ export async function getJobInfo(octokit: Octokit): Promise<JobInfo> {\n \n // eslint-disable-next-line @typescript-eslint/explicit-function-return-type\n export async function setJobInfoEnvVar(jobInfo: JobInfo) {\n-    core.exportVariable(\n-        FORESIGHT_WORKFLOW_ENV_VARS.FORESIGHT_WORKFLOW_JOB_ID,\n-        jobInfo.id\n-    )\n-    core.exportVariable(\n-        FORESIGHT_WORKFLOW_ENV_VARS.FORESIGHT_WORKFLOW_JOB_NAME,\n-        jobInfo.name\n-    )\n+    if (jobInfo.id !== undefined) {",
+            "html_url": "https://github.com/runforesight/foresight-test-kit-action/pull/9#discussion_r997144238",
+            "id": 997144238,
+            "line": null,
+            "node_id": "PRRC_kwDOHexzeM47bzau",
+            "original_commit_id": "0c3555fc59440487cd364c5873b9415666a5e6fa",
+            "original_line": 98,
+            "original_position": 65,
+            "original_start_line": null,
+            "path": "src/actions/job.ts",
+            "position": null,
+            "pull_request_review_id": 1144283165,
+            "pull_request_url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/pulls/9",
+            "reactions": {
+                "+1": 0,
+                "-1": 0,
+                "confused": 0,
+                "eyes": 0,
+                "heart": 0,
+                "hooray": 0,
+                "laugh": 0,
+                "rocket": 0,
+                "total_count": 0,
+                "url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/pulls/comments/997144238/reactions"
+            },
+            "side": "RIGHT",
+            "start_line": null,
+            "start_side": null,
+            "subject_type": "line",
+            "updated_at": "2022-10-17T14:35:43Z",
+            "url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/pulls/comments/997144238",
+            "user": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/3143425?v=4",
+                "events_url": "https://api.github.com/users/serkan-ozal/events{/privacy}",
+                "followers_url": "https://api.github.com/users/serkan-ozal/followers",
+                "following_url": "https://api.github.com/users/serkan-ozal/following{/other_user}",
+                "gists_url": "https://api.github.com/users/serkan-ozal/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/serkan-ozal",
+                "id": 3143425,
+                "login": "serkan-ozal",
+                "node_id": "MDQ6VXNlcjMxNDM0MjU=",
+                "organizations_url": "https://api.github.com/users/serkan-ozal/orgs",
+                "received_events_url": "https://api.github.com/users/serkan-ozal/received_events",
+                "repos_url": "https://api.github.com/users/serkan-ozal/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/serkan-ozal/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/serkan-ozal/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/serkan-ozal"
+            }
+        },
+        {
+            "_links": {
+                "html": {
+                    "href": "https://github.com/runforesight/foresight-test-kit-action/pull/9#discussion_r997144688"
+                },
+                "pull_request": {
+                    "href": "https://api.github.com/repos/runforesight/foresight-test-kit-action/pulls/9"
+                },
+                "self": {
+                    "href": "https://api.github.com/repos/runforesight/foresight-test-kit-action/pulls/comments/997144688"
+                }
+            },
+            "author_association": "CONTRIBUTOR",
+            "body": "`if (jobInfo.name)`",
+            "commit_id": "ffdaa8a59b66ac0684d21e8855c3f2b7a5ef80d2",
+            "created_at": "2022-10-17T14:36:06Z",
+            "diff_hunk": "@@ -68,12 +95,16 @@ export async function getJobInfo(octokit: Octokit): Promise<JobInfo> {\n \n // eslint-disable-next-line @typescript-eslint/explicit-function-return-type\n export async function setJobInfoEnvVar(jobInfo: JobInfo) {\n-    core.exportVariable(\n-        FORESIGHT_WORKFLOW_ENV_VARS.FORESIGHT_WORKFLOW_JOB_ID,\n-        jobInfo.id\n-    )\n-    core.exportVariable(\n-        FORESIGHT_WORKFLOW_ENV_VARS.FORESIGHT_WORKFLOW_JOB_NAME,\n-        jobInfo.name\n-    )\n+    if (jobInfo.id !== undefined) {\n+        core.exportVariable(\n+            FORESIGHT_WORKFLOW_ENV_VARS.FORESIGHT_WORKFLOW_JOB_ID,\n+            jobInfo.id\n+        )\n+    }\n+    if (jobInfo.id !== undefined) {",
+            "html_url": "https://github.com/runforesight/foresight-test-kit-action/pull/9#discussion_r997144688",
+            "id": 997144688,
+            "line": null,
+            "node_id": "PRRC_kwDOHexzeM47bzhw",
+            "original_commit_id": "0c3555fc59440487cd364c5873b9415666a5e6fa",
+            "original_line": 104,
+            "original_position": 71,
+            "original_start_line": null,
+            "path": "src/actions/job.ts",
+            "position": null,
+            "pull_request_review_id": 1144283863,
+            "pull_request_url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/pulls/9",
+            "reactions": {
+                "+1": 0,
+                "-1": 0,
+                "confused": 0,
+                "eyes": 0,
+                "heart": 0,
+                "hooray": 0,
+                "laugh": 0,
+                "rocket": 0,
+                "total_count": 0,
+                "url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/pulls/comments/997144688/reactions"
+            },
+            "side": "RIGHT",
+            "start_line": null,
+            "start_side": null,
+            "subject_type": "line",
+            "updated_at": "2022-10-17T14:36:07Z",
+            "url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/pulls/comments/997144688",
+            "user": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/3143425?v=4",
+                "events_url": "https://api.github.com/users/serkan-ozal/events{/privacy}",
+                "followers_url": "https://api.github.com/users/serkan-ozal/followers",
+                "following_url": "https://api.github.com/users/serkan-ozal/following{/other_user}",
+                "gists_url": "https://api.github.com/users/serkan-ozal/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/serkan-ozal",
+                "id": 3143425,
+                "login": "serkan-ozal",
+                "node_id": "MDQ6VXNlcjMxNDM0MjU=",
+                "organizations_url": "https://api.github.com/users/serkan-ozal/orgs",
+                "received_events_url": "https://api.github.com/users/serkan-ozal/received_events",
+                "repos_url": "https://api.github.com/users/serkan-ozal/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/serkan-ozal/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/serkan-ozal/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/serkan-ozal"
+            }
+        },
+        {
+            "_links": {
+                "html": {
+                    "href": "https://github.com/runforesight/foresight-test-kit-action/pull/9#discussion_r997144845"
+                },
+                "pull_request": {
+                    "href": "https://api.github.com/repos/runforesight/foresight-test-kit-action/pulls/9"
+                },
+                "self": {
+                    "href": "https://api.github.com/repos/runforesight/foresight-test-kit-action/pulls/comments/997144845"
+                }
+            },
+            "author_association": "CONTRIBUTOR",
+            "body": "`readonly`",
+            "commit_id": "ffdaa8a59b66ac0684d21e8855c3f2b7a5ef80d2",
+            "created_at": "2022-10-17T14:36:15Z",
+            "diff_hunk": "@@ -1,6 +1,7 @@\n export interface JobInfo {\n     readonly id?: number\n     readonly name?: string\n+    notAccessible?: boolean | false",
+            "html_url": "https://github.com/runforesight/foresight-test-kit-action/pull/9#discussion_r997144845",
+            "id": 997144845,
+            "line": null,
+            "node_id": "PRRC_kwDOHexzeM47bzkN",
+            "original_commit_id": "0c3555fc59440487cd364c5873b9415666a5e6fa",
+            "original_line": 4,
+            "original_position": 4,
+            "original_start_line": null,
+            "path": "src/interfaces/index.ts",
+            "position": null,
+            "pull_request_review_id": 1144284107,
+            "pull_request_url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/pulls/9",
+            "reactions": {
+                "+1": 0,
+                "-1": 0,
+                "confused": 0,
+                "eyes": 0,
+                "heart": 0,
+                "hooray": 0,
+                "laugh": 0,
+                "rocket": 0,
+                "total_count": 0,
+                "url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/pulls/comments/997144845/reactions"
+            },
+            "side": "RIGHT",
+            "start_line": null,
+            "start_side": null,
+            "subject_type": "line",
+            "updated_at": "2022-10-17T14:36:16Z",
+            "url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/pulls/comments/997144845",
+            "user": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/3143425?v=4",
+                "events_url": "https://api.github.com/users/serkan-ozal/events{/privacy}",
+                "followers_url": "https://api.github.com/users/serkan-ozal/followers",
+                "following_url": "https://api.github.com/users/serkan-ozal/following{/other_user}",
+                "gists_url": "https://api.github.com/users/serkan-ozal/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/serkan-ozal",
+                "id": 3143425,
+                "login": "serkan-ozal",
+                "node_id": "MDQ6VXNlcjMxNDM0MjU=",
+                "organizations_url": "https://api.github.com/users/serkan-ozal/orgs",
+                "received_events_url": "https://api.github.com/users/serkan-ozal/received_events",
+                "repos_url": "https://api.github.com/users/serkan-ozal/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/serkan-ozal/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/serkan-ozal/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/serkan-ozal"
+            }
+        },
+        {
+            "_links": {
+                "html": {
+                    "href": "https://github.com/runforesight/foresight-test-kit-action/pull/9#discussion_r997155143"
+                },
+                "pull_request": {
+                    "href": "https://api.github.com/repos/runforesight/foresight-test-kit-action/pulls/9"
+                },
+                "self": {
+                    "href": "https://api.github.com/repos/runforesight/foresight-test-kit-action/pulls/comments/997155143"
+                }
+            },
+            "author_association": "CONTRIBUTOR",
+            "body": "I think, if job info is empty (`{}` or maybe we should return `undefined` from `getJobInfo()`), which is the case that there is no resource access error but couldn't get job info even retried `10` times , we should notice and return here.",
+            "commit_id": "ffdaa8a59b66ac0684d21e8855c3f2b7a5ef80d2",
+            "created_at": "2022-10-17T14:44:49Z",
+            "diff_hunk": "@@ -49,10 +49,6 @@ async function run(): Promise<void> {\n         logger.info('Start getting job info...')\n         const jobInfo = await getJobInfo(octokit)\n         logger.debug(`jobInfo: ${jobInfo.id}, ${jobInfo.name}`)\n-        if (!jobInfo.id || !jobInfo.name) {",
+            "html_url": "https://github.com/runforesight/foresight-test-kit-action/pull/9#discussion_r997155143",
+            "id": 997155143,
+            "line": 52,
+            "node_id": "PRRC_kwDOHexzeM47b2FH",
+            "original_commit_id": "0c3555fc59440487cd364c5873b9415666a5e6fa",
+            "original_line": 52,
+            "original_position": 4,
+            "original_start_line": null,
+            "path": "src/main.ts",
+            "position": 5,
+            "pull_request_review_id": 1144299337,
+            "pull_request_url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/pulls/9",
+            "reactions": {
+                "+1": 0,
+                "-1": 0,
+                "confused": 0,
+                "eyes": 0,
+                "heart": 0,
+                "hooray": 0,
+                "laugh": 0,
+                "rocket": 0,
+                "total_count": 0,
+                "url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/pulls/comments/997155143/reactions"
+            },
+            "side": "LEFT",
+            "start_line": null,
+            "start_side": null,
+            "subject_type": "line",
+            "updated_at": "2022-10-17T14:45:51Z",
+            "url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/pulls/comments/997155143",
+            "user": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/3143425?v=4",
+                "events_url": "https://api.github.com/users/serkan-ozal/events{/privacy}",
+                "followers_url": "https://api.github.com/users/serkan-ozal/followers",
+                "following_url": "https://api.github.com/users/serkan-ozal/following{/other_user}",
+                "gists_url": "https://api.github.com/users/serkan-ozal/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/serkan-ozal",
+                "id": 3143425,
+                "login": "serkan-ozal",
+                "node_id": "MDQ6VXNlcjMxNDM0MjU=",
+                "organizations_url": "https://api.github.com/users/serkan-ozal/orgs",
+                "received_events_url": "https://api.github.com/users/serkan-ozal/received_events",
+                "repos_url": "https://api.github.com/users/serkan-ozal/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/serkan-ozal/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/serkan-ozal/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/serkan-ozal"
+            }
+        },
+        {
+            "_links": {
+                "html": {
+                    "href": "https://github.com/runforesight/foresight-test-kit-action/pull/9#discussion_r997160348"
+                },
+                "pull_request": {
+                    "href": "https://api.github.com/repos/runforesight/foresight-test-kit-action/pulls/9"
+                },
+                "self": {
+                    "href": "https://api.github.com/repos/runforesight/foresight-test-kit-action/pulls/comments/997160348"
+                }
+            },
+            "author_association": "CONTRIBUTOR",
+            "body": "I think, it is better to log inside `if` statement at `debug` level",
+            "commit_id": "ffdaa8a59b66ac0684d21e8855c3f2b7a5ef80d2",
+            "created_at": "2022-10-17T14:49:03Z",
+            "diff_hunk": "@@ -23,8 +24,31 @@ export async function getJobInfo(octokit: Octokit): Promise<JobInfo> {\n                     per_page: PAGE_SIZE,\n                     page\n                 })\n-            } catch (error) {\n+            } catch (error: any) {\n                 result = undefined\n+                logger.info(",
+            "html_url": "https://github.com/runforesight/foresight-test-kit-action/pull/9#discussion_r997160348",
+            "id": 997160348,
+            "in_reply_to_id": 997140074,
+            "line": null,
+            "node_id": "PRRC_kwDOHexzeM47b3Wc",
+            "original_commit_id": "0c3555fc59440487cd364c5873b9415666a5e6fa",
+            "original_line": 29,
+            "original_position": 15,
+            "original_start_line": null,
+            "path": "src/actions/job.ts",
+            "position": null,
+            "pull_request_review_id": 1144307022,
+            "pull_request_url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/pulls/9",
+            "reactions": {
+                "+1": 0,
+                "-1": 0,
+                "confused": 0,
+                "eyes": 0,
+                "heart": 0,
+                "hooray": 0,
+                "laugh": 0,
+                "rocket": 0,
+                "total_count": 0,
+                "url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/pulls/comments/997160348/reactions"
+            },
+            "side": "RIGHT",
+            "start_line": null,
+            "start_side": null,
+            "subject_type": "line",
+            "updated_at": "2022-10-17T14:49:03Z",
+            "url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/pulls/comments/997160348",
+            "user": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/3143425?v=4",
+                "events_url": "https://api.github.com/users/serkan-ozal/events{/privacy}",
+                "followers_url": "https://api.github.com/users/serkan-ozal/followers",
+                "following_url": "https://api.github.com/users/serkan-ozal/following{/other_user}",
+                "gists_url": "https://api.github.com/users/serkan-ozal/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/serkan-ozal",
+                "id": 3143425,
+                "login": "serkan-ozal",
+                "node_id": "MDQ6VXNlcjMxNDM0MjU=",
+                "organizations_url": "https://api.github.com/users/serkan-ozal/orgs",
+                "received_events_url": "https://api.github.com/users/serkan-ozal/received_events",
+                "repos_url": "https://api.github.com/users/serkan-ozal/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/serkan-ozal/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/serkan-ozal/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/serkan-ozal"
+            }
+        },
+        {
+            "_links": {
+                "html": {
+                    "href": "https://github.com/runforesight/foresight-test-kit-action/pull/9#discussion_r997325239"
+                },
+                "pull_request": {
+                    "href": "https://api.github.com/repos/runforesight/foresight-test-kit-action/pulls/9"
+                },
+                "self": {
+                    "href": "https://api.github.com/repos/runforesight/foresight-test-kit-action/pulls/comments/997325239"
+                }
+            },
+            "author_association": "CONTRIBUTOR",
+            "body": "done",
+            "commit_id": "ffdaa8a59b66ac0684d21e8855c3f2b7a5ef80d2",
+            "created_at": "2022-10-17T17:20:28Z",
+            "diff_hunk": "@@ -49,10 +49,6 @@ async function run(): Promise<void> {\n         logger.info('Start getting job info...')\n         const jobInfo = await getJobInfo(octokit)\n         logger.debug(`jobInfo: ${jobInfo.id}, ${jobInfo.name}`)\n-        if (!jobInfo.id || !jobInfo.name) {",
+            "html_url": "https://github.com/runforesight/foresight-test-kit-action/pull/9#discussion_r997325239",
+            "id": 997325239,
+            "in_reply_to_id": 997155143,
+            "line": 52,
+            "node_id": "PRRC_kwDOHexzeM47cfm3",
+            "original_commit_id": "0c3555fc59440487cd364c5873b9415666a5e6fa",
+            "original_line": 52,
+            "original_position": 4,
+            "original_start_line": null,
+            "path": "src/main.ts",
+            "position": 5,
+            "pull_request_review_id": 1144546851,
+            "pull_request_url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/pulls/9",
+            "reactions": {
+                "+1": 0,
+                "-1": 0,
+                "confused": 0,
+                "eyes": 0,
+                "heart": 0,
+                "hooray": 0,
+                "laugh": 0,
+                "rocket": 0,
+                "total_count": 0,
+                "url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/pulls/comments/997325239/reactions"
+            },
+            "side": "LEFT",
+            "start_line": null,
+            "start_side": null,
+            "subject_type": "line",
+            "updated_at": "2022-10-17T17:20:29Z",
+            "url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/pulls/comments/997325239",
+            "user": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/81750669?v=4",
+                "events_url": "https://api.github.com/users/yusuf-erdem/events{/privacy}",
+                "followers_url": "https://api.github.com/users/yusuf-erdem/followers",
+                "following_url": "https://api.github.com/users/yusuf-erdem/following{/other_user}",
+                "gists_url": "https://api.github.com/users/yusuf-erdem/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/yusuf-erdem",
+                "id": 81750669,
+                "login": "yusuf-erdem",
+                "node_id": "MDQ6VXNlcjgxNzUwNjY5",
+                "organizations_url": "https://api.github.com/users/yusuf-erdem/orgs",
+                "received_events_url": "https://api.github.com/users/yusuf-erdem/received_events",
+                "repos_url": "https://api.github.com/users/yusuf-erdem/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/yusuf-erdem/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/yusuf-erdem/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/yusuf-erdem"
+            }
+        },
+        {
+            "_links": {
+                "html": {
+                    "href": "https://github.com/runforesight/foresight-test-kit-action/pull/9#discussion_r997325367"
+                },
+                "pull_request": {
+                    "href": "https://api.github.com/repos/runforesight/foresight-test-kit-action/pulls/9"
+                },
+                "self": {
+                    "href": "https://api.github.com/repos/runforesight/foresight-test-kit-action/pulls/comments/997325367"
+                }
+            },
+            "author_association": "CONTRIBUTOR",
+            "body": "done",
+            "commit_id": "ffdaa8a59b66ac0684d21e8855c3f2b7a5ef80d2",
+            "created_at": "2022-10-17T17:20:37Z",
+            "diff_hunk": "@@ -23,8 +24,31 @@ export async function getJobInfo(octokit: Octokit): Promise<JobInfo> {\n                     per_page: PAGE_SIZE,\n                     page\n                 })\n-            } catch (error) {\n+            } catch (error: any) {\n                 result = undefined\n+                logger.info(",
+            "html_url": "https://github.com/runforesight/foresight-test-kit-action/pull/9#discussion_r997325367",
+            "id": 997325367,
+            "in_reply_to_id": 997140074,
+            "line": null,
+            "node_id": "PRRC_kwDOHexzeM47cfo3",
+            "original_commit_id": "0c3555fc59440487cd364c5873b9415666a5e6fa",
+            "original_line": 29,
+            "original_position": 15,
+            "original_start_line": null,
+            "path": "src/actions/job.ts",
+            "position": null,
+            "pull_request_review_id": 1144547024,
+            "pull_request_url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/pulls/9",
+            "reactions": {
+                "+1": 0,
+                "-1": 0,
+                "confused": 0,
+                "eyes": 0,
+                "heart": 0,
+                "hooray": 0,
+                "laugh": 0,
+                "rocket": 0,
+                "total_count": 0,
+                "url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/pulls/comments/997325367/reactions"
+            },
+            "side": "RIGHT",
+            "start_line": null,
+            "start_side": null,
+            "subject_type": "line",
+            "updated_at": "2022-10-17T17:20:37Z",
+            "url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/pulls/comments/997325367",
+            "user": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/81750669?v=4",
+                "events_url": "https://api.github.com/users/yusuf-erdem/events{/privacy}",
+                "followers_url": "https://api.github.com/users/yusuf-erdem/followers",
+                "following_url": "https://api.github.com/users/yusuf-erdem/following{/other_user}",
+                "gists_url": "https://api.github.com/users/yusuf-erdem/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/yusuf-erdem",
+                "id": 81750669,
+                "login": "yusuf-erdem",
+                "node_id": "MDQ6VXNlcjgxNzUwNjY5",
+                "organizations_url": "https://api.github.com/users/yusuf-erdem/orgs",
+                "received_events_url": "https://api.github.com/users/yusuf-erdem/received_events",
+                "repos_url": "https://api.github.com/users/yusuf-erdem/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/yusuf-erdem/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/yusuf-erdem/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/yusuf-erdem"
+            }
+        }
+    ],
+    "comment_regular_data": [
+        {
+            "author_association": "NONE",
+            "body": "### Foresight Workflow Report\n[build-test-kit](https://app.runforesight.me/repositories/github/runforesight/foresight-test-kit-action/workflow-run/1f94e95f-bcc0-35bc-af56-c56052e82f59 \"See Workflow Run Details\") workflow has finished in 59 seconds and finished at 17th Oct, 2022. Conclusion: **SUCCESS**. Here is the analysis:\n    \n---\n| Job | Failed Steps | Tests | Not tested changed lines* |  |\n|---|---|---|---|---|\n|build|- &nbsp;&nbsp;&nbsp; [:link:](https://app.runforesight.me/repositories/github/runforesight/foresight-test-kit-action/workflow-run/1f94e95f-bcc0-35bc-af56-c56052e82f59/8940723607/steps \"See Steps Details\") |&nbsp;N/A|N/A|[See Details](https://app.runforesight.me/repositories/github/runforesight/foresight-test-kit-action/workflow-run/1f94e95f-bcc0-35bc-af56-c56052e82f59/8940723607/steps)|\n\n---\n\n<sup>*Not tested changed lines calculated for determining how much of the changes are covered by the tests.</sup>",
+            "created_at": "2022-10-17T17:21:27Z",
+            "html_url": "https://github.com/runforesight/foresight-test-kit-action/pull/9#issuecomment-1281199856",
+            "id": 1281199856,
+            "issue_url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/issues/9",
+            "node_id": "IC_kwDOHexzeM5MXY7w",
+            "performed_via_github_app": null,
+            "reactions": {
+                "+1": 0,
+                "-1": 0,
+                "confused": 0,
+                "eyes": 0,
+                "heart": 0,
+                "hooray": 0,
+                "laugh": 0,
+                "rocket": 0,
+                "total_count": 0,
+                "url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/issues/comments/1281199856/reactions"
+            },
+            "updated_at": "2022-10-17T17:21:27Z",
+            "url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/issues/comments/1281199856",
+            "user": {
+                "avatar_url": "https://avatars.githubusercontent.com/in/146748?v=4",
+                "events_url": "https://api.github.com/users/runforesight-lab%5Bbot%5D/events{/privacy}",
+                "followers_url": "https://api.github.com/users/runforesight-lab%5Bbot%5D/followers",
+                "following_url": "https://api.github.com/users/runforesight-lab%5Bbot%5D/following{/other_user}",
+                "gists_url": "https://api.github.com/users/runforesight-lab%5Bbot%5D/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/apps/runforesight-lab",
+                "id": 92978300,
+                "login": "runforesight-lab[bot]",
+                "node_id": "BOT_kgDOBYq8fA",
+                "organizations_url": "https://api.github.com/users/runforesight-lab%5Bbot%5D/orgs",
+                "received_events_url": "https://api.github.com/users/runforesight-lab%5Bbot%5D/received_events",
+                "repos_url": "https://api.github.com/users/runforesight-lab%5Bbot%5D/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/runforesight-lab%5Bbot%5D/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/runforesight-lab%5Bbot%5D/subscriptions",
+                "type": "Bot",
+                "url": "https://api.github.com/users/runforesight-lab%5Bbot%5D"
+            }
+        }
+    ],
+    "comments": 1,
+    "comments_url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/issues/9/comments",
+    "commit_data": [
+        {
+            "author": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/81750669?v=4",
+                "events_url": "https://api.github.com/users/yusuf-erdem/events{/privacy}",
+                "followers_url": "https://api.github.com/users/yusuf-erdem/followers",
+                "following_url": "https://api.github.com/users/yusuf-erdem/following{/other_user}",
+                "gists_url": "https://api.github.com/users/yusuf-erdem/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/yusuf-erdem",
+                "id": 81750669,
+                "login": "yusuf-erdem",
+                "node_id": "MDQ6VXNlcjgxNzUwNjY5",
+                "organizations_url": "https://api.github.com/users/yusuf-erdem/orgs",
+                "received_events_url": "https://api.github.com/users/yusuf-erdem/received_events",
+                "repos_url": "https://api.github.com/users/yusuf-erdem/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/yusuf-erdem/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/yusuf-erdem/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/yusuf-erdem"
+            },
+            "comments_url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/commits/c3cb5660e71ff3862683eb98d63267d5564fa6be/comments",
+            "commit": {
+                "author": {
+                    "date": "2022-10-11T17:47:35Z",
+                    "email": "yusuf@thundra.io",
+                    "name": "Yusuf Erdem"
+                },
+                "comment_count": 0,
+                "committer": {
+                    "date": "2022-10-11T17:47:35Z",
+                    "email": "yusuf@thundra.io",
+                    "name": "Yusuf Erdem"
+                },
+                "message": "Immediately return empty jobinfo when github returns 403 error",
+                "tree": {
+                    "sha": "68afdbd72010048d2eb9d334fb33c4f58c67e026",
+                    "url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/git/trees/68afdbd72010048d2eb9d334fb33c4f58c67e026"
+                },
+                "url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/git/commits/c3cb5660e71ff3862683eb98d63267d5564fa6be",
+                "verification": {
+                    "payload": null,
+                    "reason": "unsigned",
+                    "signature": null,
+                    "verified": false
+                }
+            },
+            "committer": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/81750669?v=4",
+                "events_url": "https://api.github.com/users/yusuf-erdem/events{/privacy}",
+                "followers_url": "https://api.github.com/users/yusuf-erdem/followers",
+                "following_url": "https://api.github.com/users/yusuf-erdem/following{/other_user}",
+                "gists_url": "https://api.github.com/users/yusuf-erdem/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/yusuf-erdem",
+                "id": 81750669,
+                "login": "yusuf-erdem",
+                "node_id": "MDQ6VXNlcjgxNzUwNjY5",
+                "organizations_url": "https://api.github.com/users/yusuf-erdem/orgs",
+                "received_events_url": "https://api.github.com/users/yusuf-erdem/received_events",
+                "repos_url": "https://api.github.com/users/yusuf-erdem/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/yusuf-erdem/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/yusuf-erdem/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/yusuf-erdem"
+            },
+            "html_url": "https://github.com/runforesight/foresight-test-kit-action/commit/c3cb5660e71ff3862683eb98d63267d5564fa6be",
+            "node_id": "C_kwDOHexzeNoAKGMzY2I1NjYwZTcxZmYzODYyNjgzZWI5OGQ2MzI2N2Q1NTY0ZmE2YmU",
+            "parents": [
+                {
+                    "html_url": "https://github.com/runforesight/foresight-test-kit-action/commit/f59d3bf1f0ee83ddd1b2e6c3095575dfcc707f31",
+                    "sha": "f59d3bf1f0ee83ddd1b2e6c3095575dfcc707f31",
+                    "url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/commits/f59d3bf1f0ee83ddd1b2e6c3095575dfcc707f31"
+                }
+            ],
+            "sha": "c3cb5660e71ff3862683eb98d63267d5564fa6be",
+            "url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/commits/c3cb5660e71ff3862683eb98d63267d5564fa6be"
+        },
+        {
+            "author": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/81750669?v=4",
+                "events_url": "https://api.github.com/users/yusuf-erdem/events{/privacy}",
+                "followers_url": "https://api.github.com/users/yusuf-erdem/followers",
+                "following_url": "https://api.github.com/users/yusuf-erdem/following{/other_user}",
+                "gists_url": "https://api.github.com/users/yusuf-erdem/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/yusuf-erdem",
+                "id": 81750669,
+                "login": "yusuf-erdem",
+                "node_id": "MDQ6VXNlcjgxNzUwNjY5",
+                "organizations_url": "https://api.github.com/users/yusuf-erdem/orgs",
+                "received_events_url": "https://api.github.com/users/yusuf-erdem/received_events",
+                "repos_url": "https://api.github.com/users/yusuf-erdem/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/yusuf-erdem/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/yusuf-erdem/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/yusuf-erdem"
+            },
+            "comments_url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/commits/2cc6b1c0f09e64f2ec1d996cb35471dbc9b31e74/comments",
+            "commit": {
+                "author": {
+                    "date": "2022-10-11T18:00:49Z",
+                    "email": "yusuf@thundra.io",
+                    "name": "Yusuf Erdem"
+                },
+                "comment_count": 0,
+                "committer": {
+                    "date": "2022-10-11T18:00:49Z",
+                    "email": "yusuf@thundra.io",
+                    "name": "Yusuf Erdem"
+                },
+                "message": "Immediately return empty jobinfo when github returns 403 error",
+                "tree": {
+                    "sha": "03346f08827cd7d537b2c35b7c27d527af9d23db",
+                    "url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/git/trees/03346f08827cd7d537b2c35b7c27d527af9d23db"
+                },
+                "url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/git/commits/2cc6b1c0f09e64f2ec1d996cb35471dbc9b31e74",
+                "verification": {
+                    "payload": null,
+                    "reason": "unsigned",
+                    "signature": null,
+                    "verified": false
+                }
+            },
+            "committer": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/81750669?v=4",
+                "events_url": "https://api.github.com/users/yusuf-erdem/events{/privacy}",
+                "followers_url": "https://api.github.com/users/yusuf-erdem/followers",
+                "following_url": "https://api.github.com/users/yusuf-erdem/following{/other_user}",
+                "gists_url": "https://api.github.com/users/yusuf-erdem/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/yusuf-erdem",
+                "id": 81750669,
+                "login": "yusuf-erdem",
+                "node_id": "MDQ6VXNlcjgxNzUwNjY5",
+                "organizations_url": "https://api.github.com/users/yusuf-erdem/orgs",
+                "received_events_url": "https://api.github.com/users/yusuf-erdem/received_events",
+                "repos_url": "https://api.github.com/users/yusuf-erdem/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/yusuf-erdem/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/yusuf-erdem/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/yusuf-erdem"
+            },
+            "html_url": "https://github.com/runforesight/foresight-test-kit-action/commit/2cc6b1c0f09e64f2ec1d996cb35471dbc9b31e74",
+            "node_id": "C_kwDOHexzeNoAKDJjYzZiMWMwZjA5ZTY0ZjJlYzFkOTk2Y2IzNTQ3MWRiYzliMzFlNzQ",
+            "parents": [
+                {
+                    "html_url": "https://github.com/runforesight/foresight-test-kit-action/commit/c3cb5660e71ff3862683eb98d63267d5564fa6be",
+                    "sha": "c3cb5660e71ff3862683eb98d63267d5564fa6be",
+                    "url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/commits/c3cb5660e71ff3862683eb98d63267d5564fa6be"
+                }
+            ],
+            "sha": "2cc6b1c0f09e64f2ec1d996cb35471dbc9b31e74",
+            "url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/commits/2cc6b1c0f09e64f2ec1d996cb35471dbc9b31e74"
+        },
+        {
+            "author": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/81750669?v=4",
+                "events_url": "https://api.github.com/users/yusuf-erdem/events{/privacy}",
+                "followers_url": "https://api.github.com/users/yusuf-erdem/followers",
+                "following_url": "https://api.github.com/users/yusuf-erdem/following{/other_user}",
+                "gists_url": "https://api.github.com/users/yusuf-erdem/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/yusuf-erdem",
+                "id": 81750669,
+                "login": "yusuf-erdem",
+                "node_id": "MDQ6VXNlcjgxNzUwNjY5",
+                "organizations_url": "https://api.github.com/users/yusuf-erdem/orgs",
+                "received_events_url": "https://api.github.com/users/yusuf-erdem/received_events",
+                "repos_url": "https://api.github.com/users/yusuf-erdem/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/yusuf-erdem/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/yusuf-erdem/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/yusuf-erdem"
+            },
+            "comments_url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/commits/b4f64addca4830faa362a93498522d7013b5f46f/comments",
+            "commit": {
+                "author": {
+                    "date": "2022-10-11T18:50:08Z",
+                    "email": "yusuf@thundra.io",
+                    "name": "Yusuf Erdem"
+                },
+                "comment_count": 0,
+                "committer": {
+                    "date": "2022-10-11T18:50:08Z",
+                    "email": "yusuf@thundra.io",
+                    "name": "Yusuf Erdem"
+                },
+                "message": "Immediately return empty jobinfo when github returns 403 error",
+                "tree": {
+                    "sha": "650775644b7c7d421ea1c2a69d22e85ba485f846",
+                    "url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/git/trees/650775644b7c7d421ea1c2a69d22e85ba485f846"
+                },
+                "url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/git/commits/b4f64addca4830faa362a93498522d7013b5f46f",
+                "verification": {
+                    "payload": null,
+                    "reason": "unsigned",
+                    "signature": null,
+                    "verified": false
+                }
+            },
+            "committer": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/81750669?v=4",
+                "events_url": "https://api.github.com/users/yusuf-erdem/events{/privacy}",
+                "followers_url": "https://api.github.com/users/yusuf-erdem/followers",
+                "following_url": "https://api.github.com/users/yusuf-erdem/following{/other_user}",
+                "gists_url": "https://api.github.com/users/yusuf-erdem/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/yusuf-erdem",
+                "id": 81750669,
+                "login": "yusuf-erdem",
+                "node_id": "MDQ6VXNlcjgxNzUwNjY5",
+                "organizations_url": "https://api.github.com/users/yusuf-erdem/orgs",
+                "received_events_url": "https://api.github.com/users/yusuf-erdem/received_events",
+                "repos_url": "https://api.github.com/users/yusuf-erdem/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/yusuf-erdem/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/yusuf-erdem/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/yusuf-erdem"
+            },
+            "html_url": "https://github.com/runforesight/foresight-test-kit-action/commit/b4f64addca4830faa362a93498522d7013b5f46f",
+            "node_id": "C_kwDOHexzeNoAKGI0ZjY0YWRkY2E0ODMwZmFhMzYyYTkzNDk4NTIyZDcwMTNiNWY0NmY",
+            "parents": [
+                {
+                    "html_url": "https://github.com/runforesight/foresight-test-kit-action/commit/2cc6b1c0f09e64f2ec1d996cb35471dbc9b31e74",
+                    "sha": "2cc6b1c0f09e64f2ec1d996cb35471dbc9b31e74",
+                    "url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/commits/2cc6b1c0f09e64f2ec1d996cb35471dbc9b31e74"
+                }
+            ],
+            "sha": "b4f64addca4830faa362a93498522d7013b5f46f",
+            "url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/commits/b4f64addca4830faa362a93498522d7013b5f46f"
+        },
+        {
+            "author": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/81750669?v=4",
+                "events_url": "https://api.github.com/users/yusuf-erdem/events{/privacy}",
+                "followers_url": "https://api.github.com/users/yusuf-erdem/followers",
+                "following_url": "https://api.github.com/users/yusuf-erdem/following{/other_user}",
+                "gists_url": "https://api.github.com/users/yusuf-erdem/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/yusuf-erdem",
+                "id": 81750669,
+                "login": "yusuf-erdem",
+                "node_id": "MDQ6VXNlcjgxNzUwNjY5",
+                "organizations_url": "https://api.github.com/users/yusuf-erdem/orgs",
+                "received_events_url": "https://api.github.com/users/yusuf-erdem/received_events",
+                "repos_url": "https://api.github.com/users/yusuf-erdem/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/yusuf-erdem/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/yusuf-erdem/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/yusuf-erdem"
+            },
+            "comments_url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/commits/ded33024976124cf60fc7702a7e7fcafd3ce805b/comments",
+            "commit": {
+                "author": {
+                    "date": "2022-10-13T08:53:12Z",
+                    "email": "yusuf@thundra.io",
+                    "name": "Yusuf Erdem"
+                },
+                "comment_count": 0,
+                "committer": {
+                    "date": "2022-10-13T08:53:12Z",
+                    "email": "yusuf@thundra.io",
+                    "name": "Yusuf Erdem"
+                },
+                "message": "Immediately return empty jobinfo when github returns resouce not accessible exception",
+                "tree": {
+                    "sha": "88c38f3d416e4e2883ae461e2d82e8cbf8dd63c6",
+                    "url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/git/trees/88c38f3d416e4e2883ae461e2d82e8cbf8dd63c6"
+                },
+                "url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/git/commits/ded33024976124cf60fc7702a7e7fcafd3ce805b",
+                "verification": {
+                    "payload": null,
+                    "reason": "unsigned",
+                    "signature": null,
+                    "verified": false
+                }
+            },
+            "committer": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/81750669?v=4",
+                "events_url": "https://api.github.com/users/yusuf-erdem/events{/privacy}",
+                "followers_url": "https://api.github.com/users/yusuf-erdem/followers",
+                "following_url": "https://api.github.com/users/yusuf-erdem/following{/other_user}",
+                "gists_url": "https://api.github.com/users/yusuf-erdem/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/yusuf-erdem",
+                "id": 81750669,
+                "login": "yusuf-erdem",
+                "node_id": "MDQ6VXNlcjgxNzUwNjY5",
+                "organizations_url": "https://api.github.com/users/yusuf-erdem/orgs",
+                "received_events_url": "https://api.github.com/users/yusuf-erdem/received_events",
+                "repos_url": "https://api.github.com/users/yusuf-erdem/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/yusuf-erdem/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/yusuf-erdem/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/yusuf-erdem"
+            },
+            "html_url": "https://github.com/runforesight/foresight-test-kit-action/commit/ded33024976124cf60fc7702a7e7fcafd3ce805b",
+            "node_id": "C_kwDOHexzeNoAKGRlZDMzMDI0OTc2MTI0Y2Y2MGZjNzcwMmE3ZTdmY2FmZDNjZTgwNWI",
+            "parents": [
+                {
+                    "html_url": "https://github.com/runforesight/foresight-test-kit-action/commit/b4f64addca4830faa362a93498522d7013b5f46f",
+                    "sha": "b4f64addca4830faa362a93498522d7013b5f46f",
+                    "url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/commits/b4f64addca4830faa362a93498522d7013b5f46f"
+                }
+            ],
+            "sha": "ded33024976124cf60fc7702a7e7fcafd3ce805b",
+            "url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/commits/ded33024976124cf60fc7702a7e7fcafd3ce805b"
+        },
+        {
+            "author": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/81750669?v=4",
+                "events_url": "https://api.github.com/users/yusuf-erdem/events{/privacy}",
+                "followers_url": "https://api.github.com/users/yusuf-erdem/followers",
+                "following_url": "https://api.github.com/users/yusuf-erdem/following{/other_user}",
+                "gists_url": "https://api.github.com/users/yusuf-erdem/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/yusuf-erdem",
+                "id": 81750669,
+                "login": "yusuf-erdem",
+                "node_id": "MDQ6VXNlcjgxNzUwNjY5",
+                "organizations_url": "https://api.github.com/users/yusuf-erdem/orgs",
+                "received_events_url": "https://api.github.com/users/yusuf-erdem/received_events",
+                "repos_url": "https://api.github.com/users/yusuf-erdem/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/yusuf-erdem/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/yusuf-erdem/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/yusuf-erdem"
+            },
+            "comments_url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/commits/a9a80220f7948ceae382a96c53e50598c19c6013/comments",
+            "commit": {
+                "author": {
+                    "date": "2022-10-13T09:26:59Z",
+                    "email": "yusuf@thundra.io",
+                    "name": "Yusuf Erdem"
+                },
+                "comment_count": 0,
+                "committer": {
+                    "date": "2022-10-13T09:26:59Z",
+                    "email": "yusuf@thundra.io",
+                    "name": "Yusuf Erdem"
+                },
+                "message": "Immediately return empty jobinfo when github returns resouce not accessible exception",
+                "tree": {
+                    "sha": "2a05724a8843b4c0a7b346d0659f41d1a8109a43",
+                    "url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/git/trees/2a05724a8843b4c0a7b346d0659f41d1a8109a43"
+                },
+                "url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/git/commits/a9a80220f7948ceae382a96c53e50598c19c6013",
+                "verification": {
+                    "payload": null,
+                    "reason": "unsigned",
+                    "signature": null,
+                    "verified": false
+                }
+            },
+            "committer": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/81750669?v=4",
+                "events_url": "https://api.github.com/users/yusuf-erdem/events{/privacy}",
+                "followers_url": "https://api.github.com/users/yusuf-erdem/followers",
+                "following_url": "https://api.github.com/users/yusuf-erdem/following{/other_user}",
+                "gists_url": "https://api.github.com/users/yusuf-erdem/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/yusuf-erdem",
+                "id": 81750669,
+                "login": "yusuf-erdem",
+                "node_id": "MDQ6VXNlcjgxNzUwNjY5",
+                "organizations_url": "https://api.github.com/users/yusuf-erdem/orgs",
+                "received_events_url": "https://api.github.com/users/yusuf-erdem/received_events",
+                "repos_url": "https://api.github.com/users/yusuf-erdem/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/yusuf-erdem/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/yusuf-erdem/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/yusuf-erdem"
+            },
+            "html_url": "https://github.com/runforesight/foresight-test-kit-action/commit/a9a80220f7948ceae382a96c53e50598c19c6013",
+            "node_id": "C_kwDOHexzeNoAKGE5YTgwMjIwZjc5NDhjZWFlMzgyYTk2YzUzZTUwNTk4YzE5YzYwMTM",
+            "parents": [
+                {
+                    "html_url": "https://github.com/runforesight/foresight-test-kit-action/commit/ded33024976124cf60fc7702a7e7fcafd3ce805b",
+                    "sha": "ded33024976124cf60fc7702a7e7fcafd3ce805b",
+                    "url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/commits/ded33024976124cf60fc7702a7e7fcafd3ce805b"
+                }
+            ],
+            "sha": "a9a80220f7948ceae382a96c53e50598c19c6013",
+            "url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/commits/a9a80220f7948ceae382a96c53e50598c19c6013"
+        },
+        {
+            "author": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/81750669?v=4",
+                "events_url": "https://api.github.com/users/yusuf-erdem/events{/privacy}",
+                "followers_url": "https://api.github.com/users/yusuf-erdem/followers",
+                "following_url": "https://api.github.com/users/yusuf-erdem/following{/other_user}",
+                "gists_url": "https://api.github.com/users/yusuf-erdem/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/yusuf-erdem",
+                "id": 81750669,
+                "login": "yusuf-erdem",
+                "node_id": "MDQ6VXNlcjgxNzUwNjY5",
+                "organizations_url": "https://api.github.com/users/yusuf-erdem/orgs",
+                "received_events_url": "https://api.github.com/users/yusuf-erdem/received_events",
+                "repos_url": "https://api.github.com/users/yusuf-erdem/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/yusuf-erdem/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/yusuf-erdem/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/yusuf-erdem"
+            },
+            "comments_url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/commits/d6a4731e9a4eef98aa9b122e7a22eb41fcd2f8bb/comments",
+            "commit": {
+                "author": {
+                    "date": "2022-10-13T13:10:38Z",
+                    "email": "yusuf@thundra.io",
+                    "name": "Yusuf Erdem"
+                },
+                "comment_count": 0,
+                "committer": {
+                    "date": "2022-10-13T13:10:38Z",
+                    "email": "yusuf@thundra.io",
+                    "name": "Yusuf Erdem"
+                },
+                "message": "Immediately return empty jobinfo when github returns resouce not accessible exception",
+                "tree": {
+                    "sha": "827e47953b33a70b07074ad6c1318e915e082afb",
+                    "url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/git/trees/827e47953b33a70b07074ad6c1318e915e082afb"
+                },
+                "url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/git/commits/d6a4731e9a4eef98aa9b122e7a22eb41fcd2f8bb",
+                "verification": {
+                    "payload": null,
+                    "reason": "unsigned",
+                    "signature": null,
+                    "verified": false
+                }
+            },
+            "committer": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/81750669?v=4",
+                "events_url": "https://api.github.com/users/yusuf-erdem/events{/privacy}",
+                "followers_url": "https://api.github.com/users/yusuf-erdem/followers",
+                "following_url": "https://api.github.com/users/yusuf-erdem/following{/other_user}",
+                "gists_url": "https://api.github.com/users/yusuf-erdem/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/yusuf-erdem",
+                "id": 81750669,
+                "login": "yusuf-erdem",
+                "node_id": "MDQ6VXNlcjgxNzUwNjY5",
+                "organizations_url": "https://api.github.com/users/yusuf-erdem/orgs",
+                "received_events_url": "https://api.github.com/users/yusuf-erdem/received_events",
+                "repos_url": "https://api.github.com/users/yusuf-erdem/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/yusuf-erdem/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/yusuf-erdem/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/yusuf-erdem"
+            },
+            "html_url": "https://github.com/runforesight/foresight-test-kit-action/commit/d6a4731e9a4eef98aa9b122e7a22eb41fcd2f8bb",
+            "node_id": "C_kwDOHexzeNoAKGQ2YTQ3MzFlOWE0ZWVmOThhYTliMTIyZTdhMjJlYjQxZmNkMmY4YmI",
+            "parents": [
+                {
+                    "html_url": "https://github.com/runforesight/foresight-test-kit-action/commit/a9a80220f7948ceae382a96c53e50598c19c6013",
+                    "sha": "a9a80220f7948ceae382a96c53e50598c19c6013",
+                    "url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/commits/a9a80220f7948ceae382a96c53e50598c19c6013"
+                }
+            ],
+            "sha": "d6a4731e9a4eef98aa9b122e7a22eb41fcd2f8bb",
+            "url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/commits/d6a4731e9a4eef98aa9b122e7a22eb41fcd2f8bb"
+        },
+        {
+            "author": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/81750669?v=4",
+                "events_url": "https://api.github.com/users/yusuf-erdem/events{/privacy}",
+                "followers_url": "https://api.github.com/users/yusuf-erdem/followers",
+                "following_url": "https://api.github.com/users/yusuf-erdem/following{/other_user}",
+                "gists_url": "https://api.github.com/users/yusuf-erdem/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/yusuf-erdem",
+                "id": 81750669,
+                "login": "yusuf-erdem",
+                "node_id": "MDQ6VXNlcjgxNzUwNjY5",
+                "organizations_url": "https://api.github.com/users/yusuf-erdem/orgs",
+                "received_events_url": "https://api.github.com/users/yusuf-erdem/received_events",
+                "repos_url": "https://api.github.com/users/yusuf-erdem/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/yusuf-erdem/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/yusuf-erdem/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/yusuf-erdem"
+            },
+            "comments_url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/commits/ba137dca3a0b0c9793a0999c20fcc6ffb16bc678/comments",
+            "commit": {
+                "author": {
+                    "date": "2022-10-14T16:43:09Z",
+                    "email": "yusuf@thundra.io",
+                    "name": "Yusuf Erdem"
+                },
+                "comment_count": 0,
+                "committer": {
+                    "date": "2022-10-14T16:43:09Z",
+                    "email": "yusuf@thundra.io",
+                    "name": "Yusuf Erdem"
+                },
+                "message": "Immediately return empty jobinfo when github returns resouce not accessible exception",
+                "tree": {
+                    "sha": "a601b4e0161d0c944f92ab2897b0b6af845243e9",
+                    "url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/git/trees/a601b4e0161d0c944f92ab2897b0b6af845243e9"
+                },
+                "url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/git/commits/ba137dca3a0b0c9793a0999c20fcc6ffb16bc678",
+                "verification": {
+                    "payload": null,
+                    "reason": "unsigned",
+                    "signature": null,
+                    "verified": false
+                }
+            },
+            "committer": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/81750669?v=4",
+                "events_url": "https://api.github.com/users/yusuf-erdem/events{/privacy}",
+                "followers_url": "https://api.github.com/users/yusuf-erdem/followers",
+                "following_url": "https://api.github.com/users/yusuf-erdem/following{/other_user}",
+                "gists_url": "https://api.github.com/users/yusuf-erdem/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/yusuf-erdem",
+                "id": 81750669,
+                "login": "yusuf-erdem",
+                "node_id": "MDQ6VXNlcjgxNzUwNjY5",
+                "organizations_url": "https://api.github.com/users/yusuf-erdem/orgs",
+                "received_events_url": "https://api.github.com/users/yusuf-erdem/received_events",
+                "repos_url": "https://api.github.com/users/yusuf-erdem/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/yusuf-erdem/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/yusuf-erdem/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/yusuf-erdem"
+            },
+            "html_url": "https://github.com/runforesight/foresight-test-kit-action/commit/ba137dca3a0b0c9793a0999c20fcc6ffb16bc678",
+            "node_id": "C_kwDOHexzeNoAKGJhMTM3ZGNhM2EwYjBjOTc5M2EwOTk5YzIwZmNjNmZmYjE2YmM2Nzg",
+            "parents": [
+                {
+                    "html_url": "https://github.com/runforesight/foresight-test-kit-action/commit/d6a4731e9a4eef98aa9b122e7a22eb41fcd2f8bb",
+                    "sha": "d6a4731e9a4eef98aa9b122e7a22eb41fcd2f8bb",
+                    "url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/commits/d6a4731e9a4eef98aa9b122e7a22eb41fcd2f8bb"
+                }
+            ],
+            "sha": "ba137dca3a0b0c9793a0999c20fcc6ffb16bc678",
+            "url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/commits/ba137dca3a0b0c9793a0999c20fcc6ffb16bc678"
+        },
+        {
+            "author": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/81750669?v=4",
+                "events_url": "https://api.github.com/users/yusuf-erdem/events{/privacy}",
+                "followers_url": "https://api.github.com/users/yusuf-erdem/followers",
+                "following_url": "https://api.github.com/users/yusuf-erdem/following{/other_user}",
+                "gists_url": "https://api.github.com/users/yusuf-erdem/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/yusuf-erdem",
+                "id": 81750669,
+                "login": "yusuf-erdem",
+                "node_id": "MDQ6VXNlcjgxNzUwNjY5",
+                "organizations_url": "https://api.github.com/users/yusuf-erdem/orgs",
+                "received_events_url": "https://api.github.com/users/yusuf-erdem/received_events",
+                "repos_url": "https://api.github.com/users/yusuf-erdem/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/yusuf-erdem/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/yusuf-erdem/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/yusuf-erdem"
+            },
+            "comments_url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/commits/0c3555fc59440487cd364c5873b9415666a5e6fa/comments",
+            "commit": {
+                "author": {
+                    "date": "2022-10-17T09:44:13Z",
+                    "email": "yusuf@thundra.io",
+                    "name": "Yusuf Erdem"
+                },
+                "comment_count": 0,
+                "committer": {
+                    "date": "2022-10-17T09:44:13Z",
+                    "email": "yusuf@thundra.io",
+                    "name": "Yusuf Erdem"
+                },
+                "message": "Immediately return empty jobinfo when github returns resouce not accessible exception",
+                "tree": {
+                    "sha": "d9dca9a0030188065521a8e38d65b197ff6a5ec7",
+                    "url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/git/trees/d9dca9a0030188065521a8e38d65b197ff6a5ec7"
+                },
+                "url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/git/commits/0c3555fc59440487cd364c5873b9415666a5e6fa",
+                "verification": {
+                    "payload": null,
+                    "reason": "unsigned",
+                    "signature": null,
+                    "verified": false
+                }
+            },
+            "committer": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/81750669?v=4",
+                "events_url": "https://api.github.com/users/yusuf-erdem/events{/privacy}",
+                "followers_url": "https://api.github.com/users/yusuf-erdem/followers",
+                "following_url": "https://api.github.com/users/yusuf-erdem/following{/other_user}",
+                "gists_url": "https://api.github.com/users/yusuf-erdem/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/yusuf-erdem",
+                "id": 81750669,
+                "login": "yusuf-erdem",
+                "node_id": "MDQ6VXNlcjgxNzUwNjY5",
+                "organizations_url": "https://api.github.com/users/yusuf-erdem/orgs",
+                "received_events_url": "https://api.github.com/users/yusuf-erdem/received_events",
+                "repos_url": "https://api.github.com/users/yusuf-erdem/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/yusuf-erdem/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/yusuf-erdem/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/yusuf-erdem"
+            },
+            "html_url": "https://github.com/runforesight/foresight-test-kit-action/commit/0c3555fc59440487cd364c5873b9415666a5e6fa",
+            "node_id": "C_kwDOHexzeNoAKDBjMzU1NWZjNTk0NDA0ODdjZDM2NGM1ODczYjk0MTU2NjZhNWU2ZmE",
+            "parents": [
+                {
+                    "html_url": "https://github.com/runforesight/foresight-test-kit-action/commit/ba137dca3a0b0c9793a0999c20fcc6ffb16bc678",
+                    "sha": "ba137dca3a0b0c9793a0999c20fcc6ffb16bc678",
+                    "url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/commits/ba137dca3a0b0c9793a0999c20fcc6ffb16bc678"
+                }
+            ],
+            "sha": "0c3555fc59440487cd364c5873b9415666a5e6fa",
+            "url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/commits/0c3555fc59440487cd364c5873b9415666a5e6fa"
+        },
+        {
+            "author": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/81750669?v=4",
+                "events_url": "https://api.github.com/users/yusuf-erdem/events{/privacy}",
+                "followers_url": "https://api.github.com/users/yusuf-erdem/followers",
+                "following_url": "https://api.github.com/users/yusuf-erdem/following{/other_user}",
+                "gists_url": "https://api.github.com/users/yusuf-erdem/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/yusuf-erdem",
+                "id": 81750669,
+                "login": "yusuf-erdem",
+                "node_id": "MDQ6VXNlcjgxNzUwNjY5",
+                "organizations_url": "https://api.github.com/users/yusuf-erdem/orgs",
+                "received_events_url": "https://api.github.com/users/yusuf-erdem/received_events",
+                "repos_url": "https://api.github.com/users/yusuf-erdem/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/yusuf-erdem/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/yusuf-erdem/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/yusuf-erdem"
+            },
+            "comments_url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/commits/cc9ca435b1b33b019f404397d562ad83235986b1/comments",
+            "commit": {
+                "author": {
+                    "date": "2022-10-17T09:48:26Z",
+                    "email": "yusuf@thundra.io",
+                    "name": "Yusuf Erdem"
+                },
+                "comment_count": 0,
+                "committer": {
+                    "date": "2022-10-17T09:48:26Z",
+                    "email": "yusuf@thundra.io",
+                    "name": "Yusuf Erdem"
+                },
+                "message": "Merge branch 'master' into fix/job-fetch-error\n\n# Conflicts:\n#\tdist/index.js\n#\tdist/index.js.map",
+                "tree": {
+                    "sha": "79cbbc9cc550ffcf5ca7e9bc7b6803ea94f7358d",
+                    "url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/git/trees/79cbbc9cc550ffcf5ca7e9bc7b6803ea94f7358d"
+                },
+                "url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/git/commits/cc9ca435b1b33b019f404397d562ad83235986b1",
+                "verification": {
+                    "payload": null,
+                    "reason": "unsigned",
+                    "signature": null,
+                    "verified": false
+                }
+            },
+            "committer": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/81750669?v=4",
+                "events_url": "https://api.github.com/users/yusuf-erdem/events{/privacy}",
+                "followers_url": "https://api.github.com/users/yusuf-erdem/followers",
+                "following_url": "https://api.github.com/users/yusuf-erdem/following{/other_user}",
+                "gists_url": "https://api.github.com/users/yusuf-erdem/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/yusuf-erdem",
+                "id": 81750669,
+                "login": "yusuf-erdem",
+                "node_id": "MDQ6VXNlcjgxNzUwNjY5",
+                "organizations_url": "https://api.github.com/users/yusuf-erdem/orgs",
+                "received_events_url": "https://api.github.com/users/yusuf-erdem/received_events",
+                "repos_url": "https://api.github.com/users/yusuf-erdem/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/yusuf-erdem/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/yusuf-erdem/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/yusuf-erdem"
+            },
+            "html_url": "https://github.com/runforesight/foresight-test-kit-action/commit/cc9ca435b1b33b019f404397d562ad83235986b1",
+            "node_id": "C_kwDOHexzeNoAKGNjOWNhNDM1YjFiMzNiMDE5ZjQwNDM5N2Q1NjJhZDgzMjM1OTg2YjE",
+            "parents": [
+                {
+                    "html_url": "https://github.com/runforesight/foresight-test-kit-action/commit/0c3555fc59440487cd364c5873b9415666a5e6fa",
+                    "sha": "0c3555fc59440487cd364c5873b9415666a5e6fa",
+                    "url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/commits/0c3555fc59440487cd364c5873b9415666a5e6fa"
+                },
+                {
+                    "html_url": "https://github.com/runforesight/foresight-test-kit-action/commit/04b005ef18630c4429241b132a1633f367506b41",
+                    "sha": "04b005ef18630c4429241b132a1633f367506b41",
+                    "url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/commits/04b005ef18630c4429241b132a1633f367506b41"
+                }
+            ],
+            "sha": "cc9ca435b1b33b019f404397d562ad83235986b1",
+            "url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/commits/cc9ca435b1b33b019f404397d562ad83235986b1"
+        },
+        {
+            "author": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/81750669?v=4",
+                "events_url": "https://api.github.com/users/yusuf-erdem/events{/privacy}",
+                "followers_url": "https://api.github.com/users/yusuf-erdem/followers",
+                "following_url": "https://api.github.com/users/yusuf-erdem/following{/other_user}",
+                "gists_url": "https://api.github.com/users/yusuf-erdem/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/yusuf-erdem",
+                "id": 81750669,
+                "login": "yusuf-erdem",
+                "node_id": "MDQ6VXNlcjgxNzUwNjY5",
+                "organizations_url": "https://api.github.com/users/yusuf-erdem/orgs",
+                "received_events_url": "https://api.github.com/users/yusuf-erdem/received_events",
+                "repos_url": "https://api.github.com/users/yusuf-erdem/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/yusuf-erdem/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/yusuf-erdem/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/yusuf-erdem"
+            },
+            "comments_url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/commits/c95dda1e411ac3165798c71e1d26c7e74d065080/comments",
+            "commit": {
+                "author": {
+                    "date": "2022-10-17T16:20:50Z",
+                    "email": "yusuf@thundra.io",
+                    "name": "Yusuf Erdem"
+                },
+                "comment_count": 0,
+                "committer": {
+                    "date": "2022-10-17T16:20:50Z",
+                    "email": "yusuf@thundra.io",
+                    "name": "Yusuf Erdem"
+                },
+                "message": "fix review comments",
+                "tree": {
+                    "sha": "d1f0e2c47fff9aef4b575455aae8d8fca0558fec",
+                    "url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/git/trees/d1f0e2c47fff9aef4b575455aae8d8fca0558fec"
+                },
+                "url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/git/commits/c95dda1e411ac3165798c71e1d26c7e74d065080",
+                "verification": {
+                    "payload": null,
+                    "reason": "unsigned",
+                    "signature": null,
+                    "verified": false
+                }
+            },
+            "committer": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/81750669?v=4",
+                "events_url": "https://api.github.com/users/yusuf-erdem/events{/privacy}",
+                "followers_url": "https://api.github.com/users/yusuf-erdem/followers",
+                "following_url": "https://api.github.com/users/yusuf-erdem/following{/other_user}",
+                "gists_url": "https://api.github.com/users/yusuf-erdem/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/yusuf-erdem",
+                "id": 81750669,
+                "login": "yusuf-erdem",
+                "node_id": "MDQ6VXNlcjgxNzUwNjY5",
+                "organizations_url": "https://api.github.com/users/yusuf-erdem/orgs",
+                "received_events_url": "https://api.github.com/users/yusuf-erdem/received_events",
+                "repos_url": "https://api.github.com/users/yusuf-erdem/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/yusuf-erdem/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/yusuf-erdem/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/yusuf-erdem"
+            },
+            "html_url": "https://github.com/runforesight/foresight-test-kit-action/commit/c95dda1e411ac3165798c71e1d26c7e74d065080",
+            "node_id": "C_kwDOHexzeNoAKGM5NWRkYTFlNDExYWMzMTY1Nzk4YzcxZTFkMjZjN2U3NGQwNjUwODA",
+            "parents": [
+                {
+                    "html_url": "https://github.com/runforesight/foresight-test-kit-action/commit/cc9ca435b1b33b019f404397d562ad83235986b1",
+                    "sha": "cc9ca435b1b33b019f404397d562ad83235986b1",
+                    "url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/commits/cc9ca435b1b33b019f404397d562ad83235986b1"
+                }
+            ],
+            "sha": "c95dda1e411ac3165798c71e1d26c7e74d065080",
+            "url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/commits/c95dda1e411ac3165798c71e1d26c7e74d065080"
+        },
+        {
+            "author": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/81750669?v=4",
+                "events_url": "https://api.github.com/users/yusuf-erdem/events{/privacy}",
+                "followers_url": "https://api.github.com/users/yusuf-erdem/followers",
+                "following_url": "https://api.github.com/users/yusuf-erdem/following{/other_user}",
+                "gists_url": "https://api.github.com/users/yusuf-erdem/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/yusuf-erdem",
+                "id": 81750669,
+                "login": "yusuf-erdem",
+                "node_id": "MDQ6VXNlcjgxNzUwNjY5",
+                "organizations_url": "https://api.github.com/users/yusuf-erdem/orgs",
+                "received_events_url": "https://api.github.com/users/yusuf-erdem/received_events",
+                "repos_url": "https://api.github.com/users/yusuf-erdem/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/yusuf-erdem/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/yusuf-erdem/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/yusuf-erdem"
+            },
+            "comments_url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/commits/44cac8abdc983c9fc5dbe90a3b3a0a2b2c6df575/comments",
+            "commit": {
+                "author": {
+                    "date": "2022-10-17T16:42:17Z",
+                    "email": "yusuf@thundra.io",
+                    "name": "Yusuf Erdem"
+                },
+                "comment_count": 0,
+                "committer": {
+                    "date": "2022-10-17T16:42:17Z",
+                    "email": "yusuf@thundra.io",
+                    "name": "Yusuf Erdem"
+                },
+                "message": "fix review comments",
+                "tree": {
+                    "sha": "16804429ca8958528ff0c2a19941d8cb5edab136",
+                    "url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/git/trees/16804429ca8958528ff0c2a19941d8cb5edab136"
+                },
+                "url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/git/commits/44cac8abdc983c9fc5dbe90a3b3a0a2b2c6df575",
+                "verification": {
+                    "payload": null,
+                    "reason": "unsigned",
+                    "signature": null,
+                    "verified": false
+                }
+            },
+            "committer": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/81750669?v=4",
+                "events_url": "https://api.github.com/users/yusuf-erdem/events{/privacy}",
+                "followers_url": "https://api.github.com/users/yusuf-erdem/followers",
+                "following_url": "https://api.github.com/users/yusuf-erdem/following{/other_user}",
+                "gists_url": "https://api.github.com/users/yusuf-erdem/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/yusuf-erdem",
+                "id": 81750669,
+                "login": "yusuf-erdem",
+                "node_id": "MDQ6VXNlcjgxNzUwNjY5",
+                "organizations_url": "https://api.github.com/users/yusuf-erdem/orgs",
+                "received_events_url": "https://api.github.com/users/yusuf-erdem/received_events",
+                "repos_url": "https://api.github.com/users/yusuf-erdem/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/yusuf-erdem/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/yusuf-erdem/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/yusuf-erdem"
+            },
+            "html_url": "https://github.com/runforesight/foresight-test-kit-action/commit/44cac8abdc983c9fc5dbe90a3b3a0a2b2c6df575",
+            "node_id": "C_kwDOHexzeNoAKDQ0Y2FjOGFiZGM5ODNjOWZjNWRiZTkwYTNiM2EwYTJiMmM2ZGY1NzU",
+            "parents": [
+                {
+                    "html_url": "https://github.com/runforesight/foresight-test-kit-action/commit/c95dda1e411ac3165798c71e1d26c7e74d065080",
+                    "sha": "c95dda1e411ac3165798c71e1d26c7e74d065080",
+                    "url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/commits/c95dda1e411ac3165798c71e1d26c7e74d065080"
+                }
+            ],
+            "sha": "44cac8abdc983c9fc5dbe90a3b3a0a2b2c6df575",
+            "url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/commits/44cac8abdc983c9fc5dbe90a3b3a0a2b2c6df575"
+        },
+        {
+            "author": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/81750669?v=4",
+                "events_url": "https://api.github.com/users/yusuf-erdem/events{/privacy}",
+                "followers_url": "https://api.github.com/users/yusuf-erdem/followers",
+                "following_url": "https://api.github.com/users/yusuf-erdem/following{/other_user}",
+                "gists_url": "https://api.github.com/users/yusuf-erdem/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/yusuf-erdem",
+                "id": 81750669,
+                "login": "yusuf-erdem",
+                "node_id": "MDQ6VXNlcjgxNzUwNjY5",
+                "organizations_url": "https://api.github.com/users/yusuf-erdem/orgs",
+                "received_events_url": "https://api.github.com/users/yusuf-erdem/received_events",
+                "repos_url": "https://api.github.com/users/yusuf-erdem/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/yusuf-erdem/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/yusuf-erdem/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/yusuf-erdem"
+            },
+            "comments_url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/commits/ffdaa8a59b66ac0684d21e8855c3f2b7a5ef80d2/comments",
+            "commit": {
+                "author": {
+                    "date": "2022-10-17T17:20:10Z",
+                    "email": "yusuf@thundra.io",
+                    "name": "Yusuf Erdem"
+                },
+                "comment_count": 0,
+                "committer": {
+                    "date": "2022-10-17T17:20:10Z",
+                    "email": "yusuf@thundra.io",
+                    "name": "Yusuf Erdem"
+                },
+                "message": "fix review comments",
+                "tree": {
+                    "sha": "883ace99d8945329522f802353b2cc19b9e6d40e",
+                    "url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/git/trees/883ace99d8945329522f802353b2cc19b9e6d40e"
+                },
+                "url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/git/commits/ffdaa8a59b66ac0684d21e8855c3f2b7a5ef80d2",
+                "verification": {
+                    "payload": null,
+                    "reason": "unsigned",
+                    "signature": null,
+                    "verified": false
+                }
+            },
+            "committer": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/81750669?v=4",
+                "events_url": "https://api.github.com/users/yusuf-erdem/events{/privacy}",
+                "followers_url": "https://api.github.com/users/yusuf-erdem/followers",
+                "following_url": "https://api.github.com/users/yusuf-erdem/following{/other_user}",
+                "gists_url": "https://api.github.com/users/yusuf-erdem/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/yusuf-erdem",
+                "id": 81750669,
+                "login": "yusuf-erdem",
+                "node_id": "MDQ6VXNlcjgxNzUwNjY5",
+                "organizations_url": "https://api.github.com/users/yusuf-erdem/orgs",
+                "received_events_url": "https://api.github.com/users/yusuf-erdem/received_events",
+                "repos_url": "https://api.github.com/users/yusuf-erdem/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/yusuf-erdem/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/yusuf-erdem/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/yusuf-erdem"
+            },
+            "html_url": "https://github.com/runforesight/foresight-test-kit-action/commit/ffdaa8a59b66ac0684d21e8855c3f2b7a5ef80d2",
+            "node_id": "C_kwDOHexzeNoAKGZmZGFhOGE1OWI2NmFjMDY4NGQyMWU4ODU1YzNmMmI3YTVlZjgwZDI",
+            "parents": [
+                {
+                    "html_url": "https://github.com/runforesight/foresight-test-kit-action/commit/44cac8abdc983c9fc5dbe90a3b3a0a2b2c6df575",
+                    "sha": "44cac8abdc983c9fc5dbe90a3b3a0a2b2c6df575",
+                    "url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/commits/44cac8abdc983c9fc5dbe90a3b3a0a2b2c6df575"
+                }
+            ],
+            "sha": "ffdaa8a59b66ac0684d21e8855c3f2b7a5ef80d2",
+            "url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/commits/ffdaa8a59b66ac0684d21e8855c3f2b7a5ef80d2"
+        }
+    ],
+    "commits": 12,
+    "commits_url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/pulls/9/commits",
+    "created_at": "2022-10-17T10:00:18Z",
+    "deletions": 28,
+    "diff_url": "https://github.com/runforesight/foresight-test-kit-action/pull/9.diff",
+    "draft": false,
+    "head": {
+        "label": "runforesight:fix/job-fetch-error",
+        "ref": "fix/job-fetch-error",
+        "repo": {
+            "allow_forking": true,
+            "archive_url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/{archive_format}{/ref}",
+            "archived": false,
+            "assignees_url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/assignees{/user}",
+            "blobs_url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/git/blobs{/sha}",
+            "branches_url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/branches{/branch}",
+            "clone_url": "https://github.com/runforesight/foresight-test-kit-action.git",
+            "collaborators_url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/collaborators{/collaborator}",
+            "comments_url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/comments{/number}",
+            "commits_url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/commits{/sha}",
+            "compare_url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/compare/{base}...{head}",
+            "contents_url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/contents/{+path}",
+            "contributors_url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/contributors",
+            "created_at": "2022-06-10T12:29:40Z",
+            "default_branch": "master",
+            "deployments_url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/deployments",
+            "description": "Action for optimizing your tests by listing test runs and with history ",
+            "disabled": false,
+            "downloads_url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/downloads",
+            "events_url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/events",
+            "fork": false,
+            "forks": 5,
+            "forks_count": 5,
+            "forks_url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/forks",
+            "full_name": "runforesight/foresight-test-kit-action",
+            "git_commits_url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/git/commits{/sha}",
+            "git_refs_url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/git/refs{/sha}",
+            "git_tags_url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/git/tags{/sha}",
+            "git_url": "git://github.com/runforesight/foresight-test-kit-action.git",
+            "has_discussions": false,
+            "has_downloads": true,
+            "has_issues": true,
+            "has_pages": false,
+            "has_projects": false,
+            "has_wiki": true,
+            "homepage": "",
+            "hooks_url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/hooks",
+            "html_url": "https://github.com/runforesight/foresight-test-kit-action",
+            "id": 502035320,
+            "is_template": false,
+            "issue_comment_url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/issues/comments{/number}",
+            "issue_events_url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/issues/events{/number}",
+            "issues_url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/issues{/number}",
+            "keys_url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/keys{/key_id}",
+            "labels_url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/labels{/name}",
+            "language": "TypeScript",
+            "languages_url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/languages",
+            "license": {
+                "key": "mit",
+                "name": "MIT License",
+                "node_id": "MDc6TGljZW5zZTEz",
+                "spdx_id": "MIT",
+                "url": "https://api.github.com/licenses/mit"
+            },
+            "merges_url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/merges",
+            "milestones_url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/milestones{/number}",
+            "mirror_url": null,
+            "name": "foresight-test-kit-action",
+            "node_id": "R_kgDOHexzeA",
+            "notifications_url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/notifications{?since,all,participating}",
+            "open_issues": 0,
+            "open_issues_count": 0,
+            "owner": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/103429428?v=4",
+                "events_url": "https://api.github.com/users/runforesight/events{/privacy}",
+                "followers_url": "https://api.github.com/users/runforesight/followers",
+                "following_url": "https://api.github.com/users/runforesight/following{/other_user}",
+                "gists_url": "https://api.github.com/users/runforesight/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/runforesight",
+                "id": 103429428,
+                "login": "runforesight",
+                "node_id": "O_kgDOBio1NA",
+                "organizations_url": "https://api.github.com/users/runforesight/orgs",
+                "received_events_url": "https://api.github.com/users/runforesight/received_events",
+                "repos_url": "https://api.github.com/users/runforesight/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/runforesight/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/runforesight/subscriptions",
+                "type": "Organization",
+                "url": "https://api.github.com/users/runforesight"
+            },
+            "private": false,
+            "pulls_url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/pulls{/number}",
+            "pushed_at": "2023-02-09T14:34:50Z",
+            "releases_url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/releases{/id}",
+            "size": 1445,
+            "ssh_url": "git@github.com:runforesight/foresight-test-kit-action.git",
+            "stargazers_count": 6,
+            "stargazers_url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/stargazers",
+            "statuses_url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/statuses/{sha}",
+            "subscribers_url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/subscribers",
+            "subscription_url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/subscription",
+            "svn_url": "https://github.com/runforesight/foresight-test-kit-action",
+            "tags_url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/tags",
+            "teams_url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/teams",
+            "topics": [
+                "ci",
+                "coverage",
+                "github-actions",
+                "test",
+                "testing"
+            ],
+            "trees_url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/git/trees{/sha}",
+            "updated_at": "2023-02-20T20:43:51Z",
+            "url": "https://api.github.com/repos/runforesight/foresight-test-kit-action",
+            "visibility": "public",
+            "watchers": 6,
+            "watchers_count": 6,
+            "web_commit_signoff_required": false
+        },
+        "sha": "ffdaa8a59b66ac0684d21e8855c3f2b7a5ef80d2",
+        "user": {
+            "avatar_url": "https://avatars.githubusercontent.com/u/103429428?v=4",
+            "events_url": "https://api.github.com/users/runforesight/events{/privacy}",
+            "followers_url": "https://api.github.com/users/runforesight/followers",
+            "following_url": "https://api.github.com/users/runforesight/following{/other_user}",
+            "gists_url": "https://api.github.com/users/runforesight/gists{/gist_id}",
+            "gravatar_id": "",
+            "html_url": "https://github.com/runforesight",
+            "id": 103429428,
+            "login": "runforesight",
+            "node_id": "O_kgDOBio1NA",
+            "organizations_url": "https://api.github.com/users/runforesight/orgs",
+            "received_events_url": "https://api.github.com/users/runforesight/received_events",
+            "repos_url": "https://api.github.com/users/runforesight/repos",
+            "site_admin": false,
+            "starred_url": "https://api.github.com/users/runforesight/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/runforesight/subscriptions",
+            "type": "Organization",
+            "url": "https://api.github.com/users/runforesight"
+        }
+    },
+    "html_url": "https://github.com/runforesight/foresight-test-kit-action/pull/9",
+    "id": 1089086133,
+    "issue_url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/issues/9",
+    "labels": [],
+    "locked": false,
+    "maintainer_can_modify": false,
+    "merge_commit_sha": "cd8a192936c00c3fc1b954adc0561175337112e9",
+    "mergeable": null,
+    "mergeable_state": "unknown",
+    "merged": true,
+    "merged_at": "2022-10-19T07:15:04Z",
+    "merged_by": {
+        "avatar_url": "https://avatars.githubusercontent.com/u/3143425?v=4",
+        "events_url": "https://api.github.com/users/serkan-ozal/events{/privacy}",
+        "followers_url": "https://api.github.com/users/serkan-ozal/followers",
+        "following_url": "https://api.github.com/users/serkan-ozal/following{/other_user}",
+        "gists_url": "https://api.github.com/users/serkan-ozal/gists{/gist_id}",
+        "gravatar_id": "",
+        "html_url": "https://github.com/serkan-ozal",
+        "id": 3143425,
+        "login": "serkan-ozal",
+        "node_id": "MDQ6VXNlcjMxNDM0MjU=",
+        "organizations_url": "https://api.github.com/users/serkan-ozal/orgs",
+        "received_events_url": "https://api.github.com/users/serkan-ozal/received_events",
+        "repos_url": "https://api.github.com/users/serkan-ozal/repos",
+        "site_admin": false,
+        "starred_url": "https://api.github.com/users/serkan-ozal/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/serkan-ozal/subscriptions",
+        "type": "User",
+        "url": "https://api.github.com/users/serkan-ozal"
+    },
+    "milestone": null,
+    "node_id": "PR_kwDOHexzeM5A6iK1",
+    "number": 9,
+    "patch_url": "https://github.com/runforesight/foresight-test-kit-action/pull/9.patch",
+    "rebaseable": null,
+    "requested_reviewers": [],
+    "requested_teams": [],
+    "review_comment_url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/pulls/comments{/number}",
+    "review_comments": 10,
+    "review_comments_url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/pulls/9/comments",
+    "state": "closed",
+    "statuses_url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/statuses/ffdaa8a59b66ac0684d21e8855c3f2b7a5ef80d2",
+    "title": "Fix/job fetch error",
+    "updated_at": "2022-10-19T07:15:05Z",
+    "url": "https://api.github.com/repos/runforesight/foresight-test-kit-action/pulls/9",
+    "user": {
+        "avatar_url": "https://avatars.githubusercontent.com/u/81750669?v=4",
+        "events_url": "https://api.github.com/users/yusuf-erdem/events{/privacy}",
+        "followers_url": "https://api.github.com/users/yusuf-erdem/followers",
+        "following_url": "https://api.github.com/users/yusuf-erdem/following{/other_user}",
+        "gists_url": "https://api.github.com/users/yusuf-erdem/gists{/gist_id}",
+        "gravatar_id": "",
+        "html_url": "https://github.com/yusuf-erdem",
+        "id": 81750669,
+        "login": "yusuf-erdem",
+        "node_id": "MDQ6VXNlcjgxNzUwNjY5",
+        "organizations_url": "https://api.github.com/users/yusuf-erdem/orgs",
+        "received_events_url": "https://api.github.com/users/yusuf-erdem/received_events",
+        "repos_url": "https://api.github.com/users/yusuf-erdem/repos",
+        "site_admin": false,
+        "starred_url": "https://api.github.com/users/yusuf-erdem/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/yusuf-erdem/subscriptions",
+        "type": "User",
+        "url": "https://api.github.com/users/yusuf-erdem"
+    }
+}

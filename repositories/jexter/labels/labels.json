@@ -1,0 +1,83 @@
+[
+    {
+        "color": "d73a4a",
+        "default": true,
+        "description": "Something isn't working",
+        "id": 3265220894,
+        "name": "bug",
+        "node_id": "MDU6TGFiZWwzMjY1MjIwODk0",
+        "url": "https://api.github.com/repos/runforesight/jexter/labels/bug"
+    },
+    {
+        "color": "0075ca",
+        "default": true,
+        "description": "Improvements or additions to documentation",
+        "id": 3265220895,
+        "name": "documentation",
+        "node_id": "MDU6TGFiZWwzMjY1MjIwODk1",
+        "url": "https://api.github.com/repos/runforesight/jexter/labels/documentation"
+    },
+    {
+        "color": "cfd3d7",
+        "default": true,
+        "description": "This issue or pull request already exists",
+        "id": 3265220896,
+        "name": "duplicate",
+        "node_id": "MDU6TGFiZWwzMjY1MjIwODk2",
+        "url": "https://api.github.com/repos/runforesight/jexter/labels/duplicate"
+    },
+    {
+        "color": "a2eeef",
+        "default": true,
+        "description": "New feature or request",
+        "id": 3265220897,
+        "name": "enhancement",
+        "node_id": "MDU6TGFiZWwzMjY1MjIwODk3",
+        "url": "https://api.github.com/repos/runforesight/jexter/labels/enhancement"
+    },
+    {
+        "color": "7057ff",
+        "default": true,
+        "description": "Good for newcomers",
+        "id": 3265220898,
+        "name": "good first issue",
+        "node_id": "MDU6TGFiZWwzMjY1MjIwODk4",
+        "url": "https://api.github.com/repos/runforesight/jexter/labels/good%20first%20issue"
+    },
+    {
+        "color": "008672",
+        "default": true,
+        "description": "Extra attention is needed",
+        "id": 3265220899,
+        "name": "help wanted",
+        "node_id": "MDU6TGFiZWwzMjY1MjIwODk5",
+        "url": "https://api.github.com/repos/runforesight/jexter/labels/help%20wanted"
+    },
+    {
+        "color": "e4e669",
+        "default": true,
+        "description": "This doesn't seem right",
+        "id": 3265220900,
+        "name": "invalid",
+        "node_id": "MDU6TGFiZWwzMjY1MjIwOTAw",
+        "url": "https://api.github.com/repos/runforesight/jexter/labels/invalid"
+    },
+    {
+        "color": "d876e3",
+        "default": true,
+        "description": "Further information is requested",
+        "id": 3265220901,
+        "name": "question",
+        "node_id": "MDU6TGFiZWwzMjY1MjIwOTAx",
+        "url": "https://api.github.com/repos/runforesight/jexter/labels/question"
+    },
+    {
+        "color": "ffffff",
+        "default": true,
+        "description": "This will not be worked on",
+        "id": 3265220902,
+        "name": "wontfix",
+        "node_id": "MDU6TGFiZWwzMjY1MjIwOTAy",
+        "url": "https://api.github.com/repos/runforesight/jexter/labels/wontfix"
+    }
+]

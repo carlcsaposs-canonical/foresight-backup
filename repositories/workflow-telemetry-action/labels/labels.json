@@ -1,0 +1,92 @@
+[
+    {
+        "color": "d73a4a",
+        "default": true,
+        "description": "Something isn't working",
+        "id": 4181516464,
+        "name": "bug",
+        "node_id": "LA_kwDOHaw1cs75POCw",
+        "url": "https://api.github.com/repos/runforesight/workflow-telemetry-action/labels/bug"
+    },
+    {
+        "color": "0366d6",
+        "default": false,
+        "description": "Pull requests that update a dependency file",
+        "id": 4440319537,
+        "name": "dependencies",
+        "node_id": "LA_kwDOHaw1cs8AAAABCKnmMQ",
+        "url": "https://api.github.com/repos/runforesight/workflow-telemetry-action/labels/dependencies"
+    },
+    {
+        "color": "0075ca",
+        "default": true,
+        "description": "Improvements or additions to documentation",
+        "id": 4181516466,
+        "name": "documentation",
+        "node_id": "LA_kwDOHaw1cs75POCy",
+        "url": "https://api.github.com/repos/runforesight/workflow-telemetry-action/labels/documentation"
+    },
+    {
+        "color": "cfd3d7",
+        "default": true,
+        "description": "This issue or pull request already exists",
+        "id": 4181516468,
+        "name": "duplicate",
+        "node_id": "LA_kwDOHaw1cs75POC0",
+        "url": "https://api.github.com/repos/runforesight/workflow-telemetry-action/labels/duplicate"
+    },
+    {
+        "color": "a2eeef",
+        "default": true,
+        "description": "New feature or request",
+        "id": 4181516469,
+        "name": "enhancement",
+        "node_id": "LA_kwDOHaw1cs75POC1",
+        "url": "https://api.github.com/repos/runforesight/workflow-telemetry-action/labels/enhancement"
+    },
+    {
+        "color": "7057ff",
+        "default": true,
+        "description": "Good for newcomers",
+        "id": 4181516470,
+        "name": "good first issue",
+        "node_id": "LA_kwDOHaw1cs75POC2",
+        "url": "https://api.github.com/repos/runforesight/workflow-telemetry-action/labels/good%20first%20issue"
+    },
+    {
+        "color": "008672",
+        "default": true,
+        "description": "Extra attention is needed",
+        "id": 4181516473,
+        "name": "help wanted",
+        "node_id": "LA_kwDOHaw1cs75POC5",
+        "url": "https://api.github.com/repos/runforesight/workflow-telemetry-action/labels/help%20wanted"
+    },
+    {
+        "color": "e4e669",
+        "default": true,
+        "description": "This doesn't seem right",
+        "id": 4181516477,
+        "name": "invalid",
+        "node_id": "LA_kwDOHaw1cs75POC9",
+        "url": "https://api.github.com/repos/runforesight/workflow-telemetry-action/labels/invalid"
+    },
+    {
+        "color": "d876e3",
+        "default": true,
+        "description": "Further information is requested",
+        "id": 4181516479,
+        "name": "question",
+        "node_id": "LA_kwDOHaw1cs75POC_",
+        "url": "https://api.github.com/repos/runforesight/workflow-telemetry-action/labels/question"
+    },
+    {
+        "color": "ffffff",
+        "default": true,
+        "description": "This will not be worked on",
+        "id": 4181516481,
+        "name": "wontfix",
+        "node_id": "LA_kwDOHaw1cs75PODB",
+        "url": "https://api.github.com/repos/runforesight/workflow-telemetry-action/labels/wontfix"
+    }
+]

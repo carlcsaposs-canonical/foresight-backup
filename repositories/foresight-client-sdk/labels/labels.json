@@ -1,0 +1,83 @@
+[
+    {
+        "color": "d73a4a",
+        "default": true,
+        "description": "Something isn't working",
+        "id": 4905613528,
+        "name": "bug",
+        "node_id": "LA_kwDOInAcVc8AAAABJGW42A",
+        "url": "https://api.github.com/repos/runforesight/foresight-client-sdk/labels/bug"
+    },
+    {
+        "color": "0075ca",
+        "default": true,
+        "description": "Improvements or additions to documentation",
+        "id": 4905613532,
+        "name": "documentation",
+        "node_id": "LA_kwDOInAcVc8AAAABJGW43A",
+        "url": "https://api.github.com/repos/runforesight/foresight-client-sdk/labels/documentation"
+    },
+    {
+        "color": "cfd3d7",
+        "default": true,
+        "description": "This issue or pull request already exists",
+        "id": 4905613536,
+        "name": "duplicate",
+        "node_id": "LA_kwDOInAcVc8AAAABJGW44A",
+        "url": "https://api.github.com/repos/runforesight/foresight-client-sdk/labels/duplicate"
+    },
+    {
+        "color": "a2eeef",
+        "default": true,
+        "description": "New feature or request",
+        "id": 4905613541,
+        "name": "enhancement",
+        "node_id": "LA_kwDOInAcVc8AAAABJGW45Q",
+        "url": "https://api.github.com/repos/runforesight/foresight-client-sdk/labels/enhancement"
+    },
+    {
+        "color": "7057ff",
+        "default": true,
+        "description": "Good for newcomers",
+        "id": 4905613546,
+        "name": "good first issue",
+        "node_id": "LA_kwDOInAcVc8AAAABJGW46g",
+        "url": "https://api.github.com/repos/runforesight/foresight-client-sdk/labels/good%20first%20issue"
+    },
+    {
+        "color": "008672",
+        "default": true,
+        "description": "Extra attention is needed",
+        "id": 4905613548,
+        "name": "help wanted",
+        "node_id": "LA_kwDOInAcVc8AAAABJGW47A",
+        "url": "https://api.github.com/repos/runforesight/foresight-client-sdk/labels/help%20wanted"
+    },
+    {
+        "color": "e4e669",
+        "default": true,
+        "description": "This doesn't seem right",
+        "id": 4905613553,
+        "name": "invalid",
+        "node_id": "LA_kwDOInAcVc8AAAABJGW48Q",
+        "url": "https://api.github.com/repos/runforesight/foresight-client-sdk/labels/invalid"
+    },
+    {
+        "color": "d876e3",
+        "default": true,
+        "description": "Further information is requested",
+        "id": 4905613558,
+        "name": "question",
+        "node_id": "LA_kwDOInAcVc8AAAABJGW49g",
+        "url": "https://api.github.com/repos/runforesight/foresight-client-sdk/labels/question"
+    },
+    {
+        "color": "ffffff",
+        "default": true,
+        "description": "This will not be worked on",
+        "id": 4905613567,
+        "name": "wontfix",
+        "node_id": "LA_kwDOInAcVc8AAAABJGW4_w",
+        "url": "https://api.github.com/repos/runforesight/foresight-client-sdk/labels/wontfix"
+    }
+]
